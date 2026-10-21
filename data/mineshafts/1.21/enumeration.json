@@ -1,0 +1,21 @@
+{
+  "version": "1.21",
+  "complete": true,
+  "constructor_states": 1125902188544,
+  "layouts": 101,
+  "coordinate_precision_regions": 9,
+  "model": {
+    "mineshaft_type": "normal",
+    "hut_relative_chunk": [
+      0,
+      0
+    ],
+    "hut_footprint": [
+      7,
+      9
+    ],
+    "target_spawn_y": -59,
+    "reference_height": -54,
+    "minimum_ideal_excavation": 315
+  }
+}

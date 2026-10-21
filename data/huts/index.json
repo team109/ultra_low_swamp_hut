@@ -1,0 +1,563 @@
+{
+  "height": "Lowest witch spawning Y (HPos)",
+  "columns": [
+    "seed",
+    "x",
+    "z"
+  ],
+  "version_groups": [
+    {
+      "directory": "1.19.3",
+      "versions": [
+        "1.19.3"
+      ],
+      "verified_versions": [
+        "1.19.3"
+      ],
+      "files": [
+        {
+          "spawn_y": -59,
+          "file": "1.19.3/y-59.jsonl",
+          "huts": 28
+        },
+        {
+          "spawn_y": -58,
+          "file": "1.19.3/y-58.jsonl",
+          "huts": 168
+        },
+        {
+          "spawn_y": -57,
+          "file": "1.19.3/y-57.jsonl",
+          "huts": 222
+        },
+        {
+          "spawn_y": -56,
+          "file": "1.19.3/y-56.jsonl",
+          "huts": 101
+        },
+        {
+          "spawn_y": -55,
+          "file": "1.19.3/y-55.jsonl",
+          "huts": 101
+        }
+      ]
+    },
+    {
+      "directory": "1.19.4",
+      "versions": [
+        "1.19.4"
+      ],
+      "verified_versions": [
+        "1.19.4"
+      ],
+      "files": [
+        {
+          "spawn_y": -59,
+          "file": "1.19.4/y-59.jsonl",
+          "huts": 28
+        },
+        {
+          "spawn_y": -58,
+          "file": "1.19.4/y-58.jsonl",
+          "huts": 168
+        },
+        {
+          "spawn_y": -57,
+          "file": "1.19.4/y-57.jsonl",
+          "huts": 222
+        },
+        {
+          "spawn_y": -56,
+          "file": "1.19.4/y-56.jsonl",
+          "huts": 101
+        },
+        {
+          "spawn_y": -55,
+          "file": "1.19.4/y-55.jsonl",
+          "huts": 101
+        }
+      ]
+    },
+    {
+      "directory": "1.20-1.20.1",
+      "versions": [
+        "1.20",
+        "1.20.1"
+      ],
+      "verified_versions": [
+        "1.20.1"
+      ],
+      "files": [
+        {
+          "spawn_y": -59,
+          "file": "1.20-1.20.1/y-59.jsonl",
+          "huts": 28
+        },
+        {
+          "spawn_y": -58,
+          "file": "1.20-1.20.1/y-58.jsonl",
+          "huts": 168
+        },
+        {
+          "spawn_y": -57,
+          "file": "1.20-1.20.1/y-57.jsonl",
+          "huts": 222
+        },
+        {
+          "spawn_y": -56,
+          "file": "1.20-1.20.1/y-56.jsonl",
+          "huts": 101
+        },
+        {
+          "spawn_y": -55,
+          "file": "1.20-1.20.1/y-55.jsonl",
+          "huts": 101
+        }
+      ]
+    },
+    {
+      "directory": "1.20.2",
+      "versions": [
+        "1.20.2"
+      ],
+      "verified_versions": [
+        "1.20.2"
+      ],
+      "files": [
+        {
+          "spawn_y": -59,
+          "file": "1.20.2/y-59.jsonl",
+          "huts": 28
+        },
+        {
+          "spawn_y": -58,
+          "file": "1.20.2/y-58.jsonl",
+          "huts": 168
+        },
+        {
+          "spawn_y": -57,
+          "file": "1.20.2/y-57.jsonl",
+          "huts": 222
+        },
+        {
+          "spawn_y": -56,
+          "file": "1.20.2/y-56.jsonl",
+          "huts": 101
+        },
+        {
+          "spawn_y": -55,
+          "file": "1.20.2/y-55.jsonl",
+          "huts": 101
+        }
+      ]
+    },
+    {
+      "directory": "1.20.3-1.20.4",
+      "versions": [
+        "1.20.3",
+        "1.20.4"
+      ],
+      "verified_versions": [
+        "1.20.4"
+      ],
+      "files": [
+        {
+          "spawn_y": -59,
+          "file": "1.20.3-1.20.4/y-59.jsonl",
+          "huts": 28
+        },
+        {
+          "spawn_y": -58,
+          "file": "1.20.3-1.20.4/y-58.jsonl",
+          "huts": 168
+        },
+        {
+          "spawn_y": -57,
+          "file": "1.20.3-1.20.4/y-57.jsonl",
+          "huts": 222
+        },
+        {
+          "spawn_y": -56,
+          "file": "1.20.3-1.20.4/y-56.jsonl",
+          "huts": 101
+        },
+        {
+          "spawn_y": -55,
+          "file": "1.20.3-1.20.4/y-55.jsonl",
+          "huts": 101
+        }
+      ]
+    },
+    {
+      "directory": "1.20.5-1.20.6",
+      "versions": [
+        "1.20.5",
+        "1.20.6"
+      ],
+      "verified_versions": [
+        "1.20.6"
+      ],
+      "files": [
+        {
+          "spawn_y": -59,
+          "file": "1.20.5-1.20.6/y-59.jsonl",
+          "huts": 28
+        },
+        {
+          "spawn_y": -58,
+          "file": "1.20.5-1.20.6/y-58.jsonl",
+          "huts": 168
+        },
+        {
+          "spawn_y": -57,
+          "file": "1.20.5-1.20.6/y-57.jsonl",
+          "huts": 222
+        },
+        {
+          "spawn_y": -56,
+          "file": "1.20.5-1.20.6/y-56.jsonl",
+          "huts": 101
+        },
+        {
+          "spawn_y": -55,
+          "file": "1.20.5-1.20.6/y-55.jsonl",
+          "huts": 101
+        }
+      ]
+    },
+    {
+      "directory": "1.21-1.21.1",
+      "versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "verified_versions": [
+        "1.21"
+      ],
+      "files": [
+        {
+          "spawn_y": -59,
+          "file": "1.21-1.21.1/y-59.jsonl",
+          "huts": 26
+        },
+        {
+          "spawn_y": -58,
+          "file": "1.21-1.21.1/y-58.jsonl",
+          "huts": 161
+        },
+        {
+          "spawn_y": -57,
+          "file": "1.21-1.21.1/y-57.jsonl",
+          "huts": 220
+        },
+        {
+          "spawn_y": -56,
+          "file": "1.21-1.21.1/y-56.jsonl",
+          "huts": 97
+        },
+        {
+          "spawn_y": -55,
+          "file": "1.21-1.21.1/y-55.jsonl",
+          "huts": 100
+        }
+      ]
+    },
+    {
+      "directory": "1.21.2-1.21.3",
+      "versions": [
+        "1.21.2",
+        "1.21.3"
+      ],
+      "verified_versions": [
+        "1.21.3"
+      ],
+      "files": [
+        {
+          "spawn_y": -59,
+          "file": "1.21.2-1.21.3/y-59.jsonl",
+          "huts": 26
+        },
+        {
+          "spawn_y": -58,
+          "file": "1.21.2-1.21.3/y-58.jsonl",
+          "huts": 161
+        },
+        {
+          "spawn_y": -57,
+          "file": "1.21.2-1.21.3/y-57.jsonl",
+          "huts": 220
+        },
+        {
+          "spawn_y": -56,
+          "file": "1.21.2-1.21.3/y-56.jsonl",
+          "huts": 98
+        },
+        {
+          "spawn_y": -55,
+          "file": "1.21.2-1.21.3/y-55.jsonl",
+          "huts": 100
+        }
+      ]
+    },
+    {
+      "directory": "1.21.4",
+      "versions": [
+        "1.21.4"
+      ],
+      "verified_versions": [
+        "1.21.4"
+      ],
+      "files": [
+        {
+          "spawn_y": -59,
+          "file": "1.21.4/y-59.jsonl",
+          "huts": 26
+        },
+        {
+          "spawn_y": -58,
+          "file": "1.21.4/y-58.jsonl",
+          "huts": 160
+        },
+        {
+          "spawn_y": -57,
+          "file": "1.21.4/y-57.jsonl",
+          "huts": 221
+        },
+        {
+          "spawn_y": -56,
+          "file": "1.21.4/y-56.jsonl",
+          "huts": 98
+        },
+        {
+          "spawn_y": -55,
+          "file": "1.21.4/y-55.jsonl",
+          "huts": 100
+        }
+      ]
+    },
+    {
+      "directory": "1.21.5",
+      "versions": [
+        "1.21.5"
+      ],
+      "verified_versions": [
+        "1.21.5"
+      ],
+      "files": [
+        {
+          "spawn_y": -59,
+          "file": "1.21.5/y-59.jsonl",
+          "huts": 26
+        },
+        {
+          "spawn_y": -58,
+          "file": "1.21.5/y-58.jsonl",
+          "huts": 161
+        },
+        {
+          "spawn_y": -57,
+          "file": "1.21.5/y-57.jsonl",
+          "huts": 221
+        },
+        {
+          "spawn_y": -56,
+          "file": "1.21.5/y-56.jsonl",
+          "huts": 98
+        },
+        {
+          "spawn_y": -55,
+          "file": "1.21.5/y-55.jsonl",
+          "huts": 100
+        }
+      ]
+    },
+    {
+      "directory": "1.21.6-1.21.8",
+      "versions": [
+        "1.21.6",
+        "1.21.7",
+        "1.21.8"
+      ],
+      "verified_versions": [
+        "1.21.8"
+      ],
+      "files": [
+        {
+          "spawn_y": -59,
+          "file": "1.21.6-1.21.8/y-59.jsonl",
+          "huts": 26
+        },
+        {
+          "spawn_y": -58,
+          "file": "1.21.6-1.21.8/y-58.jsonl",
+          "huts": 161
+        },
+        {
+          "spawn_y": -57,
+          "file": "1.21.6-1.21.8/y-57.jsonl",
+          "huts": 221
+        },
+        {
+          "spawn_y": -56,
+          "file": "1.21.6-1.21.8/y-56.jsonl",
+          "huts": 98
+        },
+        {
+          "spawn_y": -55,
+          "file": "1.21.6-1.21.8/y-55.jsonl",
+          "huts": 100
+        }
+      ]
+    },
+    {
+      "directory": "1.21.9-1.21.11",
+      "versions": [
+        "1.21.9",
+        "1.21.10",
+        "1.21.11"
+      ],
+      "verified_versions": [
+        "1.21.10",
+        "1.21.11"
+      ],
+      "files": [
+        {
+          "spawn_y": -59,
+          "file": "1.21.9-1.21.11/y-59.jsonl",
+          "huts": 26
+        },
+        {
+          "spawn_y": -58,
+          "file": "1.21.9-1.21.11/y-58.jsonl",
+          "huts": 161
+        },
+        {
+          "spawn_y": -57,
+          "file": "1.21.9-1.21.11/y-57.jsonl",
+          "huts": 221
+        },
+        {
+          "spawn_y": -56,
+          "file": "1.21.9-1.21.11/y-56.jsonl",
+          "huts": 98
+        },
+        {
+          "spawn_y": -55,
+          "file": "1.21.9-1.21.11/y-55.jsonl",
+          "huts": 100
+        }
+      ]
+    },
+    {
+      "directory": "26.1-26.1.2",
+      "versions": [
+        "26.1",
+        "26.1.1",
+        "26.1.2"
+      ],
+      "verified_versions": [
+        "26.1.2"
+      ],
+      "files": [
+        {
+          "spawn_y": -59,
+          "file": "26.1-26.1.2/y-59.jsonl",
+          "huts": 26
+        },
+        {
+          "spawn_y": -58,
+          "file": "26.1-26.1.2/y-58.jsonl",
+          "huts": 161
+        },
+        {
+          "spawn_y": -57,
+          "file": "26.1-26.1.2/y-57.jsonl",
+          "huts": 222
+        },
+        {
+          "spawn_y": -56,
+          "file": "26.1-26.1.2/y-56.jsonl",
+          "huts": 98
+        },
+        {
+          "spawn_y": -55,
+          "file": "26.1-26.1.2/y-55.jsonl",
+          "huts": 99
+        }
+      ]
+    },
+    {
+      "directory": "26.2",
+      "versions": [
+        "26.2"
+      ],
+      "verified_versions": [
+        "26.2"
+      ],
+      "files": [
+        {
+          "spawn_y": -59,
+          "file": "26.2/y-59.jsonl",
+          "huts": 24
+        },
+        {
+          "spawn_y": -58,
+          "file": "26.2/y-58.jsonl",
+          "huts": 159
+        },
+        {
+          "spawn_y": -57,
+          "file": "26.2/y-57.jsonl",
+          "huts": 217
+        },
+        {
+          "spawn_y": -56,
+          "file": "26.2/y-56.jsonl",
+          "huts": 97
+        },
+        {
+          "spawn_y": -55,
+          "file": "26.2/y-55.jsonl",
+          "huts": 102
+        }
+      ]
+    },
+    {
+      "directory": "26.3",
+      "versions": [
+        "26.3"
+      ],
+      "verified_versions": [
+        "26.3"
+      ],
+      "files": [
+        {
+          "spawn_y": -59,
+          "file": "26.3/y-59.jsonl",
+          "huts": 24
+        },
+        {
+          "spawn_y": -58,
+          "file": "26.3/y-58.jsonl",
+          "huts": 158
+        },
+        {
+          "spawn_y": -57,
+          "file": "26.3/y-57.jsonl",
+          "huts": 217
+        },
+        {
+          "spawn_y": -56,
+          "file": "26.3/y-56.jsonl",
+          "huts": 97
+        },
+        {
+          "spawn_y": -55,
+          "file": "26.3/y-55.jsonl",
+          "huts": 102
+        }
+      ]
+    }
+  ],
+  "verification": "verification.json"
+}

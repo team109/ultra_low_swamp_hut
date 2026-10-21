@@ -1,0 +1,19 @@
+build*/
+runs/
+logs/
+external/
+__pycache__/
+*.py[cod]
+*.so
+*.o
+*.a
+*.class
+*.jar
+.venv/
+.env
+*.egg-info/
+dist/
+*.log
+
+# Local user working agreement
+/AGENTS.md

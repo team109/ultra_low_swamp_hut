@@ -1,0 +1,671 @@
+{
+  "version": "26.3",
+  "noises": [
+    {
+      "name": "minecraft:erosion",
+      "config": {
+        "amplitude_modifiers": [
+          1.0,
+          1.0,
+          0.0,
+          1.0,
+          1.0
+        ],
+        "base_amplitude": 1.063180125160734,
+        "base_octave": -9,
+        "octave_count": 5
+      },
+      "layers": [
+        {
+          "octave": "octave_-9",
+          "bank": 0,
+          "frequency": 0.001953125,
+          "amplitude": 0.71684587
+        },
+        {
+          "octave": "octave_-9",
+          "bank": 1,
+          "frequency": 0.001988529078549849,
+          "amplitude": 0.71684587
+        },
+        {
+          "octave": "octave_-8",
+          "bank": 0,
+          "frequency": 0.00390625,
+          "amplitude": 0.35842294
+        },
+        {
+          "octave": "octave_-8",
+          "bank": 1,
+          "frequency": 0.003977058157099698,
+          "amplitude": 0.35842294
+        },
+        {
+          "octave": "octave_-6",
+          "bank": 0,
+          "frequency": 0.015625,
+          "amplitude": 0.089605734
+        },
+        {
+          "octave": "octave_-6",
+          "bank": 1,
+          "frequency": 0.015908232628398793,
+          "amplitude": 0.089605734
+        },
+        {
+          "octave": "octave_-5",
+          "bank": 0,
+          "frequency": 0.03125,
+          "amplitude": 0.044802867
+        },
+        {
+          "octave": "octave_-5",
+          "bank": 1,
+          "frequency": 0.031816465256797585,
+          "amplitude": 0.044802867
+        }
+      ]
+    },
+    {
+      "name": "minecraft:temperature",
+      "config": {
+        "amplitude_modifiers": [
+          1.5,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "base_amplitude": 1.2453007926713473,
+        "base_octave": -10,
+        "octave_count": 6
+      },
+      "layers": [
+        {
+          "octave": "octave_-10",
+          "bank": 0,
+          "frequency": 0.0009765625,
+          "amplitude": 0.95238096
+        },
+        {
+          "octave": "octave_-10",
+          "bank": 1,
+          "frequency": 0.0009942645392749245,
+          "amplitude": 0.95238096
+        },
+        {
+          "octave": "octave_-8",
+          "bank": 0,
+          "frequency": 0.00390625,
+          "amplitude": 0.15873016
+        },
+        {
+          "octave": "octave_-8",
+          "bank": 1,
+          "frequency": 0.003977058157099698,
+          "amplitude": 0.15873016
+        }
+      ]
+    },
+    {
+      "name": "minecraft:continentalness",
+      "config": {
+        "amplitude_modifiers": [
+          1.0,
+          1.0,
+          2.0,
+          2.0,
+          2.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "base_amplitude": 0.8880832896205223,
+        "base_octave": -9,
+        "octave_count": 9
+      },
+      "layers": [
+        {
+          "octave": "octave_-9",
+          "bank": 0,
+          "frequency": 0.001953125,
+          "amplitude": 0.7514677
+        },
+        {
+          "octave": "octave_-9",
+          "bank": 1,
+          "frequency": 0.001988529078549849,
+          "amplitude": 0.7514677
+        },
+        {
+          "octave": "octave_-8",
+          "bank": 0,
+          "frequency": 0.00390625,
+          "amplitude": 0.37573385
+        },
+        {
+          "octave": "octave_-8",
+          "bank": 1,
+          "frequency": 0.003977058157099698,
+          "amplitude": 0.37573385
+        },
+        {
+          "octave": "octave_-7",
+          "bank": 0,
+          "frequency": 0.0078125,
+          "amplitude": 0.37573385
+        },
+        {
+          "octave": "octave_-7",
+          "bank": 1,
+          "frequency": 0.007954116314199396,
+          "amplitude": 0.37573385
+        },
+        {
+          "octave": "octave_-6",
+          "bank": 0,
+          "frequency": 0.015625,
+          "amplitude": 0.18786693
+        },
+        {
+          "octave": "octave_-6",
+          "bank": 1,
+          "frequency": 0.015908232628398793,
+          "amplitude": 0.18786693
+        },
+        {
+          "octave": "octave_-5",
+          "bank": 0,
+          "frequency": 0.03125,
+          "amplitude": 0.09393346
+        },
+        {
+          "octave": "octave_-5",
+          "bank": 1,
+          "frequency": 0.031816465256797585,
+          "amplitude": 0.09393346
+        },
+        {
+          "octave": "octave_-4",
+          "bank": 0,
+          "frequency": 0.0625,
+          "amplitude": 0.023483366
+        },
+        {
+          "octave": "octave_-4",
+          "bank": 1,
+          "frequency": 0.06363293051359517,
+          "amplitude": 0.023483366
+        },
+        {
+          "octave": "octave_-3",
+          "bank": 0,
+          "frequency": 0.125,
+          "amplitude": 0.011741683
+        },
+        {
+          "octave": "octave_-3",
+          "bank": 1,
+          "frequency": 0.12726586102719034,
+          "amplitude": 0.011741683
+        },
+        {
+          "octave": "octave_-2",
+          "bank": 0,
+          "frequency": 0.25,
+          "amplitude": 0.0058708414
+        },
+        {
+          "octave": "octave_-2",
+          "bank": 1,
+          "frequency": 0.2545317220543807,
+          "amplitude": 0.0058708414
+        },
+        {
+          "octave": "octave_-1",
+          "bank": 0,
+          "frequency": 0.5,
+          "amplitude": 0.0029354207
+        },
+        {
+          "octave": "octave_-1",
+          "bank": 1,
+          "frequency": 0.5090634441087614,
+          "amplitude": 0.0029354207
+        }
+      ]
+    },
+    {
+      "name": "minecraft:ridge",
+      "config": {
+        "amplitude_modifiers": [
+          1.0,
+          2.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "base_amplitude": 0.9147152149950137,
+        "base_octave": -7,
+        "octave_count": 6
+      },
+      "layers": [
+        {
+          "octave": "octave_-7",
+          "bank": 0,
+          "frequency": 0.0078125,
+          "amplitude": 0.63492066
+        },
+        {
+          "octave": "octave_-7",
+          "bank": 1,
+          "frequency": 0.007954116314199396,
+          "amplitude": 0.63492066
+        },
+        {
+          "octave": "octave_-6",
+          "bank": 0,
+          "frequency": 0.015625,
+          "amplitude": 0.63492066
+        },
+        {
+          "octave": "octave_-6",
+          "bank": 1,
+          "frequency": 0.015908232628398793,
+          "amplitude": 0.63492066
+        },
+        {
+          "octave": "octave_-5",
+          "bank": 0,
+          "frequency": 0.03125,
+          "amplitude": 0.15873016
+        },
+        {
+          "octave": "octave_-5",
+          "bank": 1,
+          "frequency": 0.031816465256797585,
+          "amplitude": 0.15873016
+        }
+      ]
+    },
+    {
+      "name": "minecraft:cave_entrance",
+      "config": {
+        "amplitude_modifiers": [
+          0.4,
+          0.5,
+          1.0
+        ],
+        "base_amplitude": 0.8500634887071167,
+        "base_octave": -7,
+        "octave_count": 3
+      },
+      "layers": [
+        {
+          "octave": "octave_-7",
+          "bank": 0,
+          "frequency": 0.0078125,
+          "amplitude": 0.2857143
+        },
+        {
+          "octave": "octave_-7",
+          "bank": 1,
+          "frequency": 0.007954116314199396,
+          "amplitude": 0.2857143
+        },
+        {
+          "octave": "octave_-6",
+          "bank": 0,
+          "frequency": 0.015625,
+          "amplitude": 0.17857143
+        },
+        {
+          "octave": "octave_-6",
+          "bank": 1,
+          "frequency": 0.015908232628398793,
+          "amplitude": 0.17857143
+        },
+        {
+          "octave": "octave_-5",
+          "bank": 0,
+          "frequency": 0.03125,
+          "amplitude": 0.17857143
+        },
+        {
+          "octave": "octave_-5",
+          "bank": 1,
+          "frequency": 0.031816465256797585,
+          "amplitude": 0.17857143
+        }
+      ]
+    },
+    {
+      "name": "minecraft:cave_cheese",
+      "config": {
+        "amplitude_modifiers": [
+          0.5,
+          1.0,
+          2.0,
+          1.0,
+          2.0,
+          1.0,
+          0.0,
+          2.0,
+          0.0
+        ],
+        "base_amplitude": 0.8361300524356068,
+        "base_octave": -8,
+        "octave_count": 9
+      },
+      "layers": [
+        {
+          "octave": "octave_-8",
+          "bank": 0,
+          "frequency": 0.00390625,
+          "amplitude": 0.37109518
+        },
+        {
+          "octave": "octave_-8",
+          "bank": 1,
+          "frequency": 0.003977058157099698,
+          "amplitude": 0.37109518
+        },
+        {
+          "octave": "octave_-7",
+          "bank": 0,
+          "frequency": 0.0078125,
+          "amplitude": 0.37109518
+        },
+        {
+          "octave": "octave_-7",
+          "bank": 1,
+          "frequency": 0.007954116314199396,
+          "amplitude": 0.37109518
+        },
+        {
+          "octave": "octave_-6",
+          "bank": 0,
+          "frequency": 0.015625,
+          "amplitude": 0.37109518
+        },
+        {
+          "octave": "octave_-6",
+          "bank": 1,
+          "frequency": 0.015908232628398793,
+          "amplitude": 0.37109518
+        },
+        {
+          "octave": "octave_-5",
+          "bank": 0,
+          "frequency": 0.03125,
+          "amplitude": 0.092773795
+        },
+        {
+          "octave": "octave_-5",
+          "bank": 1,
+          "frequency": 0.031816465256797585,
+          "amplitude": 0.092773795
+        },
+        {
+          "octave": "octave_-4",
+          "bank": 0,
+          "frequency": 0.0625,
+          "amplitude": 0.092773795
+        },
+        {
+          "octave": "octave_-4",
+          "bank": 1,
+          "frequency": 0.06363293051359517,
+          "amplitude": 0.092773795
+        },
+        {
+          "octave": "octave_-3",
+          "bank": 0,
+          "frequency": 0.125,
+          "amplitude": 0.023193449
+        },
+        {
+          "octave": "octave_-3",
+          "bank": 1,
+          "frequency": 0.12726586102719034,
+          "amplitude": 0.023193449
+        },
+        {
+          "octave": "octave_-1",
+          "bank": 0,
+          "frequency": 0.5,
+          "amplitude": 0.011596724
+        },
+        {
+          "octave": "octave_-1",
+          "bank": 1,
+          "frequency": 0.5090634441087614,
+          "amplitude": 0.011596724
+        }
+      ]
+    },
+    {
+      "name": "minecraft:aquifer_fluid_level_floodedness",
+      "config": {
+        "base_amplitude": 0.955388882960065,
+        "base_octave": -7
+      },
+      "layers": [
+        {
+          "octave": "octave_-7",
+          "bank": 0,
+          "frequency": 0.0078125,
+          "amplitude": 0.8333333
+        },
+        {
+          "octave": "octave_-7",
+          "bank": 1,
+          "frequency": 0.007954116314199396,
+          "amplitude": 0.8333333
+        }
+      ]
+    },
+    {
+      "name": "minecraft:offset",
+      "config": {
+        "amplitude_modifiers": [
+          1.0,
+          1.0,
+          1.0,
+          0.0
+        ],
+        "base_amplitude": 0.9381732587751005,
+        "base_octave": -3,
+        "octave_count": 4
+      },
+      "layers": [
+        {
+          "octave": "octave_-3",
+          "bank": 0,
+          "frequency": 0.125,
+          "amplitude": 0.6666667
+        },
+        {
+          "octave": "octave_-3",
+          "bank": 1,
+          "frequency": 0.12726586102719034,
+          "amplitude": 0.6666667
+        },
+        {
+          "octave": "octave_-2",
+          "bank": 0,
+          "frequency": 0.25,
+          "amplitude": 0.33333334
+        },
+        {
+          "octave": "octave_-2",
+          "bank": 1,
+          "frequency": 0.2545317220543807,
+          "amplitude": 0.33333334
+        },
+        {
+          "octave": "octave_-1",
+          "bank": 0,
+          "frequency": 0.5,
+          "amplitude": 0.16666667
+        },
+        {
+          "octave": "octave_-1",
+          "bank": 1,
+          "frequency": 0.5090634441087614,
+          "amplitude": 0.16666667
+        }
+      ]
+    },
+    {
+      "name": "minecraft:spaghetti_3d_rarity",
+      "config": {
+        "base_amplitude": 0.955388882960065,
+        "base_octave": -11
+      },
+      "layers": [
+        {
+          "octave": "octave_-11",
+          "bank": 0,
+          "frequency": 0.00048828125,
+          "amplitude": 0.8333333
+        },
+        {
+          "octave": "octave_-11",
+          "bank": 1,
+          "frequency": 0.0004971322696374623,
+          "amplitude": 0.8333333
+        }
+      ]
+    },
+    {
+      "name": "minecraft:spaghetti_3d_thickness",
+      "config": {
+        "base_amplitude": 0.955388882960065,
+        "base_octave": -8
+      },
+      "layers": [
+        {
+          "octave": "octave_-8",
+          "bank": 0,
+          "frequency": 0.00390625,
+          "amplitude": 0.8333333
+        },
+        {
+          "octave": "octave_-8",
+          "bank": 1,
+          "frequency": 0.003977058157099698,
+          "amplitude": 0.8333333
+        }
+      ]
+    },
+    {
+      "name": "minecraft:spaghetti_3d_1",
+      "config": {
+        "base_amplitude": 0.955388882960065,
+        "base_octave": -7
+      },
+      "layers": [
+        {
+          "octave": "octave_-7",
+          "bank": 0,
+          "frequency": 0.0078125,
+          "amplitude": 0.8333333
+        },
+        {
+          "octave": "octave_-7",
+          "bank": 1,
+          "frequency": 0.007954116314199396,
+          "amplitude": 0.8333333
+        }
+      ]
+    },
+    {
+      "name": "minecraft:spaghetti_3d_2",
+      "config": {
+        "base_amplitude": 0.955388882960065,
+        "base_octave": -7
+      },
+      "layers": [
+        {
+          "octave": "octave_-7",
+          "bank": 0,
+          "frequency": 0.0078125,
+          "amplitude": 0.8333333
+        },
+        {
+          "octave": "octave_-7",
+          "bank": 1,
+          "frequency": 0.007954116314199396,
+          "amplitude": 0.8333333
+        }
+      ]
+    },
+    {
+      "name": "minecraft:spaghetti_roughness_modulator",
+      "config": {
+        "base_amplitude": 0.955388882960065,
+        "base_octave": -8
+      },
+      "layers": [
+        {
+          "octave": "octave_-8",
+          "bank": 0,
+          "frequency": 0.00390625,
+          "amplitude": 0.8333333
+        },
+        {
+          "octave": "octave_-8",
+          "bank": 1,
+          "frequency": 0.003977058157099698,
+          "amplitude": 0.8333333
+        }
+      ]
+    },
+    {
+      "name": "minecraft:spaghetti_roughness",
+      "config": {
+        "base_amplitude": 0.955388882960065,
+        "base_octave": -5
+      },
+      "layers": [
+        {
+          "octave": "octave_-5",
+          "bank": 0,
+          "frequency": 0.03125,
+          "amplitude": 0.8333333
+        },
+        {
+          "octave": "octave_-5",
+          "bank": 1,
+          "frequency": 0.031816465256797585,
+          "amplitude": 0.8333333
+        }
+      ]
+    },
+    {
+      "name": "minecraft:cave_layer",
+      "config": {
+        "base_amplitude": 0.955388882960065,
+        "base_octave": -8
+      },
+      "layers": [
+        {
+          "octave": "octave_-8",
+          "bank": 0,
+          "frequency": 0.00390625,
+          "amplitude": 0.8333333
+        },
+        {
+          "octave": "octave_-8",
+          "bank": 1,
+          "frequency": 0.003977058157099698,
+          "amplitude": 0.8333333
+        }
+      ]
+    }
+  ]
+}

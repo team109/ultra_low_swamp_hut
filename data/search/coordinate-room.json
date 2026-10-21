@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "room_y_max": -62,
+  "inverse_k": 9,
+  "room_budget": -57,
+  "screening_objective": "Prioritize HPos <= -58 with a -57 footprint budget",
+  "interval_erosion": true,
+  "coordinate_erosion_bounds": true,
+  "unshifted_erosion_min": 0.5,
+  "unshifted_erosion_octaves": 4,
+  "compact_erosion_threads": 128,
+  "trial_exclusion_l1_radius": 96,
+  "shared_permutations": true,
+  "compact_temperature": true,
+  "upper16_batch": 256
+}

@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "template": {
+    "original": "270840896143627",
+    "target": "270840896143627",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 192,
+    "g54": 322,
+    "covered": 58,
+    "pieces": 74,
+    "coordinate_regions_mask": 256
+  },
+  "x_min": 0,
+  "x_max": 30000000,
+  "world_limit": 29999840,
+  "first_k": 5,
+  "last_k": 0,
+  "inverse_chunk": 268435456,
+  "ranges_per_call": 32,
+  "roots_per_batch": 65536,
+  "upper16_batch": 256,
+  "room_budget": -57
+}

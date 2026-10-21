@@ -1,0 +1,15 @@
+#pragma once
+#ifndef NC_EROSION_MIN
+#define NC_EROSION_MIN .55
+#define NC_TEMPERATURE_MIN -.45
+#define NC_TEMPERATURE_MAX .2
+#define NC_RIDGE_ABSOLUTE 0
+
+#define NC_CONTINENTALNESS_MIN -.11
+#define NC_RIDGE_ABS_MAX .42
+#define NC_RIDGE_OUTER_MIN .91
+#define NC_SURFACE_DEPTH_MIN 56
+#define NC_FLOODEDNESS_MAX .41
+#define NC_ENTRANCE_MAX -.35
+#define NC_CHEESE_MAX -.27
+#endif

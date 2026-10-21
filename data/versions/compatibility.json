@@ -1,0 +1,188 @@
+{
+  "schema": 1,
+  "search_versions": [
+    "1.19.3",
+    "1.19.4",
+    "1.20",
+    "1.20.1",
+    "1.20.2",
+    "1.20.3",
+    "1.20.4",
+    "1.20.5",
+    "1.20.6",
+    "1.21",
+    "1.21.1",
+    "1.21.2",
+    "1.21.3",
+    "1.21.4",
+    "1.21.5",
+    "1.21.6",
+    "1.21.7",
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11",
+    "26.1",
+    "26.1.1",
+    "26.1.2",
+    "26.2",
+    "26.3"
+  ],
+  "near_generation_groups": [
+    {
+      "versions": [
+        "1.19.3",
+        "1.19.4",
+        "1.20",
+        "1.20.1",
+        "1.20.2",
+        "1.20.3",
+        "1.20.4",
+        "1.20.5",
+        "1.20.6"
+      ],
+      "reason": "Swamp-hut and mineshaft search core shared; local geode and decoration changes"
+    },
+    {
+      "versions": [
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8",
+        "1.21.9",
+        "1.21.10",
+        "1.21.11",
+        "26.1",
+        "26.1.1",
+        "26.1.2",
+        "26.2",
+        "26.3"
+      ],
+      "reason": "Trial chambers included; shared search core with local aquifer, decoration, and numerical changes"
+    }
+  ],
+  "exact_generation_groups": [
+    {
+      "versions": [
+        "1.19.3"
+      ],
+      "representative": "1.19.3",
+      "profile": "hut-1193"
+    },
+    {
+      "versions": [
+        "1.19.4"
+      ],
+      "representative": "1.19.4",
+      "profile": "hut-1194"
+    },
+    {
+      "versions": [
+        "1.20",
+        "1.20.1"
+      ],
+      "representative": "1.20.1",
+      "profile": "hut-120"
+    },
+    {
+      "versions": [
+        "1.20.2"
+      ],
+      "representative": "1.20.2",
+      "profile": "hut-1202"
+    },
+    {
+      "versions": [
+        "1.20.3",
+        "1.20.4"
+      ],
+      "representative": "1.20.4",
+      "profile": "hut-1203"
+    },
+    {
+      "versions": [
+        "1.20.5",
+        "1.20.6"
+      ],
+      "representative": "1.20.6",
+      "profile": "hut-1205"
+    },
+    {
+      "versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "representative": "1.21",
+      "profile": "hut-121"
+    },
+    {
+      "versions": [
+        "1.21.2",
+        "1.21.3"
+      ],
+      "representative": "1.21.3",
+      "profile": "hut-1212"
+    },
+    {
+      "versions": [
+        "1.21.4"
+      ],
+      "representative": "1.21.4",
+      "profile": "hut-1214"
+    },
+    {
+      "versions": [
+        "1.21.5"
+      ],
+      "representative": "1.21.5",
+      "profile": "hut-1215"
+    },
+    {
+      "versions": [
+        "1.21.6",
+        "1.21.7",
+        "1.21.8"
+      ],
+      "representative": "1.21.8",
+      "profile": "hut-1216"
+    },
+    {
+      "versions": [
+        "1.21.9",
+        "1.21.10",
+        "1.21.11"
+      ],
+      "representative": "1.21.10",
+      "profile": "hut-1219",
+      "reason": "Equivalent aquifer pressure calculation; biome changes concern environmental attributes"
+    },
+    {
+      "versions": [
+        "26.1",
+        "26.1.1",
+        "26.1.2"
+      ],
+      "representative": "26.1.2",
+      "profile": "hut-261"
+    },
+    {
+      "versions": [
+        "26.2"
+      ],
+      "representative": "26.2",
+      "profile": "hut-262"
+    },
+    {
+      "versions": [
+        "26.3"
+      ],
+      "representative": "26.3",
+      "profile": "hut-263"
+    }
+  ]
+}

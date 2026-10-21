@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1328" height="364" viewBox="0 0 1328 364" role="img">
+<title>沼泽小屋种子互通</title>
+<rect width="100%" height="100%" rx="12" fill="#f8fafc"/>
+<g font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, sans-serif">
+<text x="20" y="30" font-size="20" fill="#0f172a" text-anchor="start" font-weight="600">沼泽小屋种子互通</text>
+<text x="20" y="70" font-size="12" fill="#64748b" text-anchor="start" font-weight="400">大版本</text>
+<text x="20" y="123" font-size="12" fill="#64748b" text-anchor="start" font-weight="400">小版本</text>
+<rect x="161" y="47" width="86" height="35" rx="5" fill="#e2e8f0"/>
+<text x="204.0" y="70" font-size="15" fill="#0f172a" text-anchor="middle" font-weight="600">1.19</text>
+<rect x="249" y="47" width="306" height="35" rx="5" fill="#edf2f7"/>
+<text x="402.0" y="70" font-size="15" fill="#0f172a" text-anchor="middle" font-weight="600">1.20</text>
+<path d="M248 42V331" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="557" y="47" width="526" height="35" rx="5" fill="#e2e8f0"/>
+<text x="820.0" y="70" font-size="15" fill="#0f172a" text-anchor="middle" font-weight="600">1.21</text>
+<path d="M556 42V331" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="1085" y="47" width="218" height="35" rx="5" fill="#edf2f7"/>
+<text x="1194.0" y="70" font-size="15" fill="#0f172a" text-anchor="middle" font-weight="600">26.x</text>
+<path d="M1084 42V331" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="4 4"/>
+<g><title>1.19.3</title>
+<text x="182.0" y="105" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">1.19.3</text>
+<path d="M182.0 110V146" stroke="#cbd5e1"/>
+</g>
+<g><title>1.19.4</title>
+<text x="226.0" y="132" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">1.19.4</text>
+<path d="M226.0 137V146" stroke="#cbd5e1"/>
+</g>
+<g><title>1.20</title>
+<text x="270.0" y="105" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">1.20</text>
+<path d="M270.0 110V146" stroke="#cbd5e1"/>
+</g>
+<g><title>1.20.1</title>
+<text x="314.0" y="132" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">1.20.1</text>
+<path d="M314.0 137V146" stroke="#cbd5e1"/>
+</g>
+<g><title>1.20.2</title>
+<text x="358.0" y="105" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">1.20.2</text>
+<path d="M358.0 110V146" stroke="#cbd5e1"/>
+</g>
+<g><title>1.20.3</title>
+<text x="402.0" y="132" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">1.20.3</text>
+<path d="M402.0 137V146" stroke="#cbd5e1"/>
+</g>
+<g><title>1.20.4</title>
+<text x="446.0" y="105" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">1.20.4</text>
+<path d="M446.0 110V146" stroke="#cbd5e1"/>
+</g>
+<g><title>1.20.5</title>
+<text x="490.0" y="132" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">1.20.5</text>
+<path d="M490.0 137V146" stroke="#cbd5e1"/>
+</g>
+<g><title>1.20.6</title>
+<text x="534.0" y="105" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">1.20.6</text>
+<path d="M534.0 110V146" stroke="#cbd5e1"/>
+</g>
+<g><title>1.21</title>
+<text x="578.0" y="132" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">1.21</text>
+<path d="M578.0 137V146" stroke="#cbd5e1"/>
+</g>
+<g><title>1.21.1</title>
+<text x="622.0" y="105" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">1.21.1</text>
+<path d="M622.0 110V146" stroke="#cbd5e1"/>
+</g>
+<g><title>1.21.2</title>
+<text x="666.0" y="132" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">1.21.2</text>
+<path d="M666.0 137V146" stroke="#cbd5e1"/>
+</g>
+<g><title>1.21.3</title>
+<text x="710.0" y="105" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">1.21.3</text>
+<path d="M710.0 110V146" stroke="#cbd5e1"/>
+</g>
+<g><title>1.21.4</title>
+<text x="754.0" y="132" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">1.21.4</text>
+<path d="M754.0 137V146" stroke="#cbd5e1"/>
+</g>
+<g><title>1.21.5</title>
+<text x="798.0" y="105" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">1.21.5</text>
+<path d="M798.0 110V146" stroke="#cbd5e1"/>
+</g>
+<g><title>1.21.6</title>
+<text x="842.0" y="132" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">1.21.6</text>
+<path d="M842.0 137V146" stroke="#cbd5e1"/>
+</g>
+<g><title>1.21.7</title>
+<text x="886.0" y="105" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">1.21.7</text>
+<path d="M886.0 110V146" stroke="#cbd5e1"/>
+</g>
+<g><title>1.21.8</title>
+<text x="930.0" y="132" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">1.21.8</text>
+<path d="M930.0 137V146" stroke="#cbd5e1"/>
+</g>
+<g><title>1.21.9</title>
+<text x="974.0" y="105" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">1.21.9</text>
+<path d="M974.0 110V146" stroke="#cbd5e1"/>
+</g>
+<g><title>1.21.10</title>
+<text x="1018.0" y="132" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">1.21.10</text>
+<path d="M1018.0 137V146" stroke="#cbd5e1"/>
+</g>
+<g><title>1.21.11</title>
+<text x="1062.0" y="105" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">1.21.11</text>
+<path d="M1062.0 110V146" stroke="#cbd5e1"/>
+</g>
+<g><title>26.1</title>
+<text x="1106.0" y="132" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">26.1</text>
+<path d="M1106.0 137V146" stroke="#cbd5e1"/>
+</g>
+<g><title>26.1.1</title>
+<text x="1150.0" y="105" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">26.1.1</text>
+<path d="M1150.0 110V146" stroke="#cbd5e1"/>
+</g>
+<g><title>26.1.2</title>
+<text x="1194.0" y="132" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">26.1.2</text>
+<path d="M1194.0 137V146" stroke="#cbd5e1"/>
+</g>
+<g><title>26.2</title>
+<text x="1238.0" y="105" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">26.2</text>
+<path d="M1238.0 110V146" stroke="#cbd5e1"/>
+</g>
+<g><title>26.3</title>
+<text x="1282.0" y="132" font-size="12" fill="#475569" text-anchor="middle" font-weight="400">26.3</text>
+<path d="M1282.0 137V146" stroke="#cbd5e1"/>
+</g>
+<text x="20" y="190" font-size="17" fill="#2558a0" text-anchor="start" font-weight="600">通常互通</text>
+<text x="20" y="211" font-size="12" fill="#64748b" text-anchor="start" font-weight="400">允许局部变化</text>
+<g><title>1.19.3, 1.19.4, 1.20, 1.20.1, 1.20.2, 1.20.3, 1.20.4, 1.20.5, 1.20.6</title><rect x="162" y="165" width="392" height="64" rx="7" fill="#e0edff" stroke="#2558a0" stroke-opacity=".24"/>
+<text x="358.0" y="192" font-size="17" fill="#2558a0" text-anchor="middle" font-weight="600">1.19.3–1.20.6</text>
+<text x="358.0" y="214" font-size="12" fill="#2558a0" text-anchor="middle" font-weight="400">试炼密室加入前</text>
+</g>
+<g><title>1.21, 1.21.1, 1.21.2, 1.21.3, 1.21.4, 1.21.5, 1.21.6, 1.21.7, 1.21.8, 1.21.9, 1.21.10, 1.21.11, 26.1, 26.1.1, 26.1.2, 26.2, 26.3</title><rect x="558" y="165" width="744" height="64" rx="7" fill="#e0edff" stroke="#2558a0" stroke-opacity=".24"/>
+<text x="930.0" y="192" font-size="17" fill="#2558a0" text-anchor="middle" font-weight="600">1.21–26.3</text>
+<text x="930.0" y="214" font-size="12" fill="#2558a0" text-anchor="middle" font-weight="400">包含试炼密室</text>
+</g>
+<text x="20" y="294" font-size="17" fill="#17664e" text-anchor="start" font-weight="600">严格互通</text>
+<text x="20" y="315" font-size="12" fill="#64748b" text-anchor="start" font-weight="400">生成结果等效</text>
+<g><title>1.19.3</title><rect x="162" y="269" width="40" height="52" rx="7" fill="#d7eee7" stroke="#17664e" stroke-opacity=".24"/>
+<text x="182.0" y="300" font-size="10" fill="#17664e" text-anchor="middle" font-weight="600">1.19.3</text>
+</g>
+<g><title>1.19.4</title><rect x="206" y="269" width="40" height="52" rx="7" fill="#d7eee7" stroke="#17664e" stroke-opacity=".24"/>
+<text x="226.0" y="300" font-size="10" fill="#17664e" text-anchor="middle" font-weight="600">1.19.4</text>
+</g>
+<g><title>1.20, 1.20.1</title><rect x="250" y="269" width="84" height="52" rx="7" fill="#d7eee7" stroke="#17664e" stroke-opacity=".24"/>
+<text x="292.0" y="291" font-size="11" fill="#17664e" text-anchor="middle" font-weight="600">1.20</text>
+<text x="292.0" y="308" font-size="11" fill="#17664e" text-anchor="middle" font-weight="600">1.20.1</text>
+</g>
+<g><title>1.20.2</title><rect x="338" y="269" width="40" height="52" rx="7" fill="#d7eee7" stroke="#17664e" stroke-opacity=".24"/>
+<text x="358.0" y="300" font-size="10" fill="#17664e" text-anchor="middle" font-weight="600">1.20.2</text>
+</g>
+<g><title>1.20.3, 1.20.4</title><rect x="382" y="269" width="84" height="52" rx="7" fill="#d7eee7" stroke="#17664e" stroke-opacity=".24"/>
+<text x="424.0" y="291" font-size="11" fill="#17664e" text-anchor="middle" font-weight="600">1.20.3</text>
+<text x="424.0" y="308" font-size="11" fill="#17664e" text-anchor="middle" font-weight="600">1.20.4</text>
+</g>
+<g><title>1.20.5, 1.20.6</title><rect x="470" y="269" width="84" height="52" rx="7" fill="#d7eee7" stroke="#17664e" stroke-opacity=".24"/>
+<text x="512.0" y="291" font-size="11" fill="#17664e" text-anchor="middle" font-weight="600">1.20.5</text>
+<text x="512.0" y="308" font-size="11" fill="#17664e" text-anchor="middle" font-weight="600">1.20.6</text>
+</g>
+<g><title>1.21, 1.21.1</title><rect x="558" y="269" width="84" height="52" rx="7" fill="#d7eee7" stroke="#17664e" stroke-opacity=".24"/>
+<text x="600.0" y="291" font-size="11" fill="#17664e" text-anchor="middle" font-weight="600">1.21</text>
+<text x="600.0" y="308" font-size="11" fill="#17664e" text-anchor="middle" font-weight="600">1.21.1</text>
+</g>
+<g><title>1.21.2, 1.21.3</title><rect x="646" y="269" width="84" height="52" rx="7" fill="#d7eee7" stroke="#17664e" stroke-opacity=".24"/>
+<text x="688.0" y="291" font-size="11" fill="#17664e" text-anchor="middle" font-weight="600">1.21.2</text>
+<text x="688.0" y="308" font-size="11" fill="#17664e" text-anchor="middle" font-weight="600">1.21.3</text>
+</g>
+<g><title>1.21.4</title><rect x="734" y="269" width="40" height="52" rx="7" fill="#d7eee7" stroke="#17664e" stroke-opacity=".24"/>
+<text x="754.0" y="300" font-size="10" fill="#17664e" text-anchor="middle" font-weight="600">1.21.4</text>
+</g>
+<g><title>1.21.5</title><rect x="778" y="269" width="40" height="52" rx="7" fill="#d7eee7" stroke="#17664e" stroke-opacity=".24"/>
+<text x="798.0" y="300" font-size="10" fill="#17664e" text-anchor="middle" font-weight="600">1.21.5</text>
+</g>
+<g><title>1.21.6, 1.21.7, 1.21.8</title><rect x="822" y="269" width="128" height="52" rx="7" fill="#d7eee7" stroke="#17664e" stroke-opacity=".24"/>
+<text x="886.0" y="291" font-size="11" fill="#17664e" text-anchor="middle" font-weight="600">1.21.6</text>
+<text x="886.0" y="308" font-size="11" fill="#17664e" text-anchor="middle" font-weight="600">1.21.8</text>
+</g>
+<g><title>1.21.9, 1.21.10, 1.21.11</title><rect x="954" y="269" width="128" height="52" rx="7" fill="#d7eee7" stroke="#17664e" stroke-opacity=".24"/>
+<text x="1018.0" y="291" font-size="11" fill="#17664e" text-anchor="middle" font-weight="600">1.21.9</text>
+<text x="1018.0" y="308" font-size="11" fill="#17664e" text-anchor="middle" font-weight="600">1.21.11</text>
+</g>
+<g><title>26.1, 26.1.1, 26.1.2</title><rect x="1086" y="269" width="128" height="52" rx="7" fill="#d7eee7" stroke="#17664e" stroke-opacity=".24"/>
+<text x="1150.0" y="291" font-size="11" fill="#17664e" text-anchor="middle" font-weight="600">26.1</text>
+<text x="1150.0" y="308" font-size="11" fill="#17664e" text-anchor="middle" font-weight="600">26.1.2</text>
+</g>
+<g><title>26.2</title><rect x="1218" y="269" width="40" height="52" rx="7" fill="#d7eee7" stroke="#17664e" stroke-opacity=".24"/>
+<text x="1238.0" y="300" font-size="10" fill="#17664e" text-anchor="middle" font-weight="600">26.2</text>
+</g>
+<g><title>26.3</title><rect x="1262" y="269" width="40" height="52" rx="7" fill="#d7eee7" stroke="#17664e" stroke-opacity=".24"/>
+<text x="1282.0" y="300" font-size="10" fill="#17664e" text-anchor="middle" font-weight="600">26.3</text>
+</g>
+<text x="20" y="350" font-size="12" fill="#64748b" text-anchor="start" font-weight="400">每个连续色块代表一个互通区间；虚线标记大版本分界。</text>
+</g></svg>

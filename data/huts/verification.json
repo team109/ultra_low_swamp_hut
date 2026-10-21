@@ -1,0 +1,246 @@
+{
+  "method": "Vanilla default-Overworld full generation and postprocessing",
+  "approach": "center",
+  "tested_seed_positions": 624,
+  "exact_compatibility_intervals": 15,
+  "queries": 9360,
+  "historical_height_differences": 0,
+  "intervals": [
+    {
+      "versions": [
+        "1.19.3"
+      ],
+      "representative": "1.19.3",
+      "tested_seed_positions": 624,
+      "huts_at_or_below_minus55": 620,
+      "heights": {
+        "-59": 28,
+        "-58": 168,
+        "-57": 222,
+        "-56": 101,
+        "-55": 101
+      }
+    },
+    {
+      "versions": [
+        "1.19.4"
+      ],
+      "representative": "1.19.4",
+      "tested_seed_positions": 624,
+      "huts_at_or_below_minus55": 620,
+      "heights": {
+        "-59": 28,
+        "-58": 168,
+        "-57": 222,
+        "-56": 101,
+        "-55": 101
+      }
+    },
+    {
+      "versions": [
+        "1.20",
+        "1.20.1"
+      ],
+      "representative": "1.20.1",
+      "tested_seed_positions": 624,
+      "huts_at_or_below_minus55": 620,
+      "heights": {
+        "-59": 28,
+        "-58": 168,
+        "-57": 222,
+        "-56": 101,
+        "-55": 101
+      }
+    },
+    {
+      "versions": [
+        "1.20.2"
+      ],
+      "representative": "1.20.2",
+      "tested_seed_positions": 624,
+      "huts_at_or_below_minus55": 620,
+      "heights": {
+        "-59": 28,
+        "-58": 168,
+        "-57": 222,
+        "-56": 101,
+        "-55": 101
+      }
+    },
+    {
+      "versions": [
+        "1.20.3",
+        "1.20.4"
+      ],
+      "representative": "1.20.4",
+      "tested_seed_positions": 624,
+      "huts_at_or_below_minus55": 620,
+      "heights": {
+        "-59": 28,
+        "-58": 168,
+        "-57": 222,
+        "-56": 101,
+        "-55": 101
+      }
+    },
+    {
+      "versions": [
+        "1.20.5",
+        "1.20.6"
+      ],
+      "representative": "1.20.6",
+      "tested_seed_positions": 624,
+      "huts_at_or_below_minus55": 620,
+      "heights": {
+        "-59": 28,
+        "-58": 168,
+        "-57": 222,
+        "-56": 101,
+        "-55": 101
+      }
+    },
+    {
+      "versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "representative": "1.21",
+      "tested_seed_positions": 624,
+      "huts_at_or_below_minus55": 604,
+      "heights": {
+        "-59": 26,
+        "-58": 161,
+        "-57": 220,
+        "-56": 97,
+        "-55": 100
+      }
+    },
+    {
+      "versions": [
+        "1.21.2",
+        "1.21.3"
+      ],
+      "representative": "1.21.3",
+      "tested_seed_positions": 624,
+      "huts_at_or_below_minus55": 605,
+      "heights": {
+        "-59": 26,
+        "-58": 161,
+        "-57": 220,
+        "-56": 98,
+        "-55": 100
+      }
+    },
+    {
+      "versions": [
+        "1.21.4"
+      ],
+      "representative": "1.21.4",
+      "tested_seed_positions": 624,
+      "huts_at_or_below_minus55": 605,
+      "heights": {
+        "-59": 26,
+        "-58": 160,
+        "-57": 221,
+        "-56": 98,
+        "-55": 100
+      }
+    },
+    {
+      "versions": [
+        "1.21.5"
+      ],
+      "representative": "1.21.5",
+      "tested_seed_positions": 624,
+      "huts_at_or_below_minus55": 606,
+      "heights": {
+        "-59": 26,
+        "-58": 161,
+        "-57": 221,
+        "-56": 98,
+        "-55": 100
+      }
+    },
+    {
+      "versions": [
+        "1.21.6",
+        "1.21.7",
+        "1.21.8"
+      ],
+      "representative": "1.21.8",
+      "tested_seed_positions": 624,
+      "huts_at_or_below_minus55": 606,
+      "heights": {
+        "-59": 26,
+        "-58": 161,
+        "-57": 221,
+        "-56": 98,
+        "-55": 100
+      }
+    },
+    {
+      "versions": [
+        "1.21.9",
+        "1.21.10",
+        "1.21.11"
+      ],
+      "representative": "1.21.10",
+      "tested_seed_positions": 624,
+      "huts_at_or_below_minus55": 606,
+      "heights": {
+        "-59": 26,
+        "-58": 161,
+        "-57": 221,
+        "-56": 98,
+        "-55": 100
+      }
+    },
+    {
+      "versions": [
+        "26.1",
+        "26.1.1",
+        "26.1.2"
+      ],
+      "representative": "26.1.2",
+      "tested_seed_positions": 624,
+      "huts_at_or_below_minus55": 606,
+      "heights": {
+        "-59": 26,
+        "-58": 161,
+        "-57": 222,
+        "-56": 98,
+        "-55": 99
+      }
+    },
+    {
+      "versions": [
+        "26.2"
+      ],
+      "representative": "26.2",
+      "tested_seed_positions": 624,
+      "huts_at_or_below_minus55": 599,
+      "heights": {
+        "-59": 24,
+        "-58": 159,
+        "-57": 217,
+        "-56": 97,
+        "-55": 102
+      }
+    },
+    {
+      "versions": [
+        "26.3"
+      ],
+      "representative": "26.3",
+      "tested_seed_positions": 624,
+      "huts_at_or_below_minus55": 598,
+      "heights": {
+        "-59": 24,
+        "-58": 158,
+        "-57": 217,
+        "-56": 97,
+        "-55": 102
+      }
+    }
+  ]
+}
