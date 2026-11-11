@@ -2,32 +2,36 @@
 
 # 数据目录
 
-中文 | [English](#english)
+[![中文](https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87-red)](#chinese) [![English](https://img.shields.io/badge/Language-English-blue)](#english)
 
 | 目录 | 内容 |
 |---|---|
-| [huts/](huts/README.md) | 历史发现并经原版生成验证的小屋，按适用版本分目录、按 HPos 分文件，记录世界种子和 X、Z 坐标 |
-| [mineshafts/](mineshafts/README.md) | 101 个矿井布局的种子、挖掘量、自然 −59 产率、完整搜索模板，以及测量所用的参考坐标 |
-| search/ | 搜索默认配置，包括布局选择、坐标范围、批大小和筛选参数 |
-| versions/ | 游戏版本到筛选配置的映射、种子互通区间及复核源码的提交号 |
-| noises/ | GPU 地形计算使用的噪声参数，包括倍频程、振幅和种子派生信息 |
+| [huts/](huts/README.md) | 目前已知的正常世界小屋列表，按适用版本和小屋内女巫可生成的最低 Y 坐标（HPos）分类 |
+| [mineshafts/](mineshafts/README.md) | 各版本通用的矿井布局、与小屋的相对位置、已检查的布局范围、挖掘量与 −59 小屋产率 |
+| noises/ | GPU 计算使用的噪声参数 |
 
-小屋数据中的 `seed` 是完整世界种子；矿井数据中的 `layout_seed` 是决定结构布局的 48 位随机数种子。两种种子均以十进制字符串保存。
+按本仓库采用的矿井挖低小屋的生成方式，并考虑当前搜索的遗漏，估计存在约 **500～1000 个 −59 小屋**；目前已收录 **29 个**不同种子与坐标的 −59 小屋。
+
+小屋的 `seed` 是完整世界种子；矿井的 `layout_seed` 是决定布局的 48 位随机数种子。两者均以十进制字符串保存。
+
+搜索参数、各游戏版本使用的实现和加载顺序位于 [config/](../config/README.md)。
 
 ---
 
 <a id="english"></a>
 
-[中文](#chinese) | English
-
 # Data directory
+
+[![中文](https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87-red)](#chinese) [![English](https://img.shields.io/badge/Language-English-blue)](#english)
 
 | Directory | Contents |
 |---|---|
-| [huts/](huts/README.md) | Historical huts verified with vanilla generation, grouped by applicable version and HPos, with world seeds and X/Z coordinates |
-| [mineshafts/](mineshafts/README.md) | Seeds, excavation, natural −59 yield and complete search templates for 101 mineshaft layouts, plus measurement reference positions |
-| search/ | Default search settings, including layout selection, coordinate domains, batch sizes and screening parameters |
-| versions/ | Game-version screening configurations, seed-compatibility intervals and reviewed source commit IDs |
-| noises/ | Noise parameters for GPU terrain computation, including octaves, amplitudes and seed derivation |
+| [huts/](huts/README.md#english) | Currently known normal-world huts, grouped by applicable version and lowest witch spawning Y coordinate (HPos) |
+| [mineshafts/](mineshafts/README.md#english) | Layouts shared across versions, hut-relative positions, the range of layouts checked, excavation and −59 hut yield |
+| noises/ | Noise parameters used by GPU calculations |
 
-A hut's `seed` is a full world seed. A mineshaft's `layout_seed` is the 48-bit RNG seed determining its structure layout. Both are stored as decimal strings.
+An estimated **500–1000 −59 huts** exist under the mineshaft-based hut-lowering method used by this repository, allowing for cases missed by the current search. The current catalog contains **29 distinct −59 huts**, identified by seed and coordinates.
+
+A hut’s `seed` is a full world seed; a mineshaft’s `layout_seed` is the 48-bit RNG seed determining its layout. Both are stored as decimal strings.
+
+Search parameters, version mappings and loading orders are under [config/](../config/README.md#english).

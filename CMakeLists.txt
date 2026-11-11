@@ -18,10 +18,10 @@ find_package(Python3 REQUIRED COMPONENTS Interpreter)
 file(GLOB LY_SOURCES "${LY}/*.c")
 list(FILTER LY_SOURCES EXCLUDE REGEX "/(main|jni_bridge|eval|phase2)\\.c$")
 set_property(DIRECTORY APPEND PROPERTY CMAKE_CONFIGURE_DEPENDS
-    "${CMAKE_CURRENT_SOURCE_DIR}/tools/generate_screen_eval.py")
+    "${CMAKE_CURRENT_SOURCE_DIR}/scripts/build/screen_eval.py")
 execute_process(
     COMMAND ${Python3_EXECUTABLE}
-        "${CMAKE_CURRENT_SOURCE_DIR}/tools/generate_screen_eval.py"
+        "${CMAKE_CURRENT_SOURCE_DIR}/scripts/build/screen_eval.py"
         "${LY}/eval.c" "${GENERATED}/eval_screen.c"
     COMMAND_ERROR_IS_FATAL ANY)
 list(APPEND LY_SOURCES "${GENERATED}/eval_screen.c")
@@ -39,10 +39,10 @@ lysh_block_state ms_post_carver_block(lysh_phase2 *p2, int x, int y, int z) {
 file(WRITE "${GENERATED}/phase2_structures.c" "${PHASE2_SOURCE}")
 if(HUT_SPARSE_DENSITY_CACHE)
     set_property(DIRECTORY APPEND PROPERTY CMAKE_CONFIGURE_DEPENDS
-        "${CMAKE_CURRENT_SOURCE_DIR}/tools/generate_sparse_phase2.py")
+        "${CMAKE_CURRENT_SOURCE_DIR}/scripts/build/sparse_phase2.py")
     execute_process(
         COMMAND ${Python3_EXECUTABLE}
-            "${CMAKE_CURRENT_SOURCE_DIR}/tools/generate_sparse_phase2.py"
+            "${CMAKE_CURRENT_SOURCE_DIR}/scripts/build/sparse_phase2.py"
             "${GENERATED}/phase2_structures.c" "${GENERATED}/phase2_structures.c"
         COMMAND_ERROR_IS_FATAL ANY)
 endif()
@@ -50,16 +50,22 @@ endif()
 add_library(lysh STATIC ${LY_SOURCES} "${GENERATED}/phase2_structures.c")
 target_compile_options(lysh PRIVATE -include stddef.h)
 target_include_directories(lysh PUBLIC "${LY}")
-add_library(mcsearch SHARED native/hut_reference.cpp)
+add_library(mcsearch SHARED src/ultra_low_hut/search/reference/hut_reference.cpp)
 if(HUT_COMPILED_LAYOUT_PROBES)
     target_compile_definitions(mcsearch PRIVATE HUT_COMPILED_LAYOUT_PROBES)
 endif()
+target_include_directories(mcsearch PRIVATE
+    "${CMAKE_CURRENT_SOURCE_DIR}/src/ultra_low_hut/layouts"
+    "${GENERATED}")
 target_link_libraries(mcsearch PRIVATE lysh m pthread)
 
-add_custom_target(hut_version_table
+add_custom_command(
+    OUTPUT "${GENERATED}/hut_versions.generated.h"
     COMMAND ${Python3_EXECUTABLE}
-        "${CMAKE_CURRENT_SOURCE_DIR}/tools/generate_hut_versions.py"
-    DEPENDS "${CMAKE_CURRENT_SOURCE_DIR}/data/versions/hut.json"
-        "${CMAKE_CURRENT_SOURCE_DIR}/tools/generate_hut_versions.py"
-    BYPRODUCTS "${CMAKE_CURRENT_SOURCE_DIR}/native/hut_versions.generated.h")
+        "${CMAKE_CURRENT_SOURCE_DIR}/scripts/build/versions.py"
+        --output "${GENERATED}/hut_versions.generated.h"
+    DEPENDS "${CMAKE_CURRENT_SOURCE_DIR}/config/versions/profiles.json"
+        "${CMAKE_CURRENT_SOURCE_DIR}/scripts/build/versions.py"
+    VERBATIM)
+add_custom_target(hut_version_table DEPENDS "${GENERATED}/hut_versions.generated.h")
 add_dependencies(mcsearch hut_version_table)

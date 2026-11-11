@@ -1,0 +1,767 @@
+{
+  "schema": 1,
+  "scope": "Natural ultra-low swamp hut search and vanilla generation verification",
+  "intervals": [
+    {
+      "id": "hut-1193",
+      "versions": [
+        "1.19.3"
+      ],
+      "representative": "1.19.3",
+      "screen": {
+        "reference_terrain_profile": "1.21.1",
+        "reference_exact": false,
+        "mine_rng": "consume_placement_double",
+        "mine_support": "sturdy_top",
+        "aquifer": "1193_center_first",
+        "noise_kernel": "modern",
+        "noise_gates": {
+          "erosion_min": 0.55,
+          "temperature_min": -0.45,
+          "temperature_max": 0.2,
+          "continentalness_min": -0.11,
+          "ridge_abs_max": 0.42,
+          "ridge_outer_min": 0.91,
+          "ridge_outer_absolute": false,
+          "surface_depth_min": 56,
+          "floodedness_max": 0.41,
+          "entrance_max": -0.35,
+          "cheese_max": -0.27
+        },
+        "min_template_gain53": 210,
+        "min_covered_columns": 35,
+        "inverse_k": 9,
+        "reference_max_y": -48,
+        "upper16_batch": 16,
+        "hut_spacing_chunks": 32,
+        "hut_separation_chunks": 8,
+        "hut_salt": 14357620,
+        "mineshaft_probability": 0.004,
+        "seed_translation_bits": 48,
+        "ancient_cities": true,
+        "trail_ruins": false,
+        "trial_chambers": false,
+        "geode_inverse_sqrt": "fast_approximation",
+        "coordinate_room": true
+      },
+      "verifier": {
+        "adapter": "generation-service-v1",
+        "version": "1.19.3",
+        "java_major": 21,
+        "artifact_dir": "runs/versions/1.19.3"
+      }
+    },
+    {
+      "id": "hut-1194",
+      "versions": [
+        "1.19.4"
+      ],
+      "representative": "1.19.4",
+      "screen": {
+        "reference_terrain_profile": "1.21.1",
+        "reference_exact": false,
+        "mine_rng": "consume_placement_double",
+        "mine_support": "sturdy_top",
+        "aquifer": "1193_center_first",
+        "noise_kernel": "modern",
+        "noise_gates": {
+          "erosion_min": 0.55,
+          "temperature_min": -0.45,
+          "temperature_max": 0.2,
+          "continentalness_min": -0.11,
+          "ridge_abs_max": 0.42,
+          "ridge_outer_min": 0.91,
+          "ridge_outer_absolute": false,
+          "surface_depth_min": 56,
+          "floodedness_max": 0.41,
+          "entrance_max": -0.35,
+          "cheese_max": -0.27
+        },
+        "min_template_gain53": 210,
+        "min_covered_columns": 35,
+        "inverse_k": 9,
+        "reference_max_y": -48,
+        "upper16_batch": 16,
+        "hut_spacing_chunks": 32,
+        "hut_separation_chunks": 8,
+        "hut_salt": 14357620,
+        "mineshaft_probability": 0.004,
+        "seed_translation_bits": 48,
+        "ancient_cities": true,
+        "trail_ruins": false,
+        "trial_chambers": false,
+        "geode_inverse_sqrt": "joml_invsqrt",
+        "coordinate_room": true
+      },
+      "verifier": {
+        "adapter": "generation-service-v1",
+        "version": "1.19.4",
+        "java_major": 21,
+        "artifact_dir": "runs/versions/1.19.4"
+      }
+    },
+    {
+      "id": "hut-120",
+      "versions": [
+        "1.20",
+        "1.20.1"
+      ],
+      "representative": "1.20.1",
+      "screen": {
+        "reference_terrain_profile": "1.21.1",
+        "reference_exact": false,
+        "mine_rng": "consume_placement_double",
+        "mine_support": "sturdy_top",
+        "aquifer": "1193_center_first",
+        "noise_kernel": "modern",
+        "noise_gates": {
+          "erosion_min": 0.55,
+          "temperature_min": -0.45,
+          "temperature_max": 0.2,
+          "continentalness_min": -0.11,
+          "ridge_abs_max": 0.42,
+          "ridge_outer_min": 0.91,
+          "ridge_outer_absolute": false,
+          "surface_depth_min": 56,
+          "floodedness_max": 0.41,
+          "entrance_max": -0.35,
+          "cheese_max": -0.27
+        },
+        "min_template_gain53": 210,
+        "min_covered_columns": 35,
+        "inverse_k": 9,
+        "reference_max_y": -48,
+        "upper16_batch": 16,
+        "hut_spacing_chunks": 32,
+        "hut_separation_chunks": 8,
+        "hut_salt": 14357620,
+        "mineshaft_probability": 0.004,
+        "seed_translation_bits": 48,
+        "ancient_cities": true,
+        "trail_ruins": true,
+        "trial_chambers": false,
+        "geode_inverse_sqrt": "joml_invsqrt",
+        "coordinate_room": true
+      },
+      "verifier": {
+        "adapter": "generation-service-v1",
+        "version": "1.20.1",
+        "java_major": 21,
+        "artifact_dir": "runs/versions/1.20.1"
+      }
+    },
+    {
+      "id": "hut-1202",
+      "versions": [
+        "1.20.2",
+        "1.20.3",
+        "1.20.4"
+      ],
+      "representative": "1.20.2",
+      "screen": {
+        "reference_terrain_profile": "1.21.1",
+        "reference_exact": false,
+        "mine_rng": "consume_placement_double",
+        "mine_support": "sturdy_top",
+        "aquifer": "1193_center_first",
+        "noise_kernel": "modern",
+        "noise_gates": {
+          "erosion_min": 0.55,
+          "temperature_min": -0.45,
+          "temperature_max": 0.2,
+          "continentalness_min": -0.11,
+          "ridge_abs_max": 0.42,
+          "ridge_outer_min": 0.91,
+          "ridge_outer_absolute": false,
+          "surface_depth_min": 56,
+          "floodedness_max": 0.41,
+          "entrance_max": -0.35,
+          "cheese_max": -0.27
+        },
+        "min_template_gain53": 210,
+        "min_covered_columns": 35,
+        "inverse_k": 9,
+        "reference_max_y": -48,
+        "upper16_batch": 16,
+        "hut_spacing_chunks": 32,
+        "hut_separation_chunks": 8,
+        "hut_salt": 14357620,
+        "mineshaft_probability": 0.004,
+        "seed_translation_bits": 48,
+        "ancient_cities": true,
+        "trail_ruins": true,
+        "trial_chambers": false,
+        "geode_inverse_sqrt": "joml_invsqrt",
+        "coordinate_room": true
+      },
+      "verifier": {
+        "adapter": "generation-service-v1",
+        "version": "1.20.2",
+        "java_major": 21,
+        "artifact_dir": "runs/versions/1.20.2"
+      }
+    },
+    {
+      "id": "hut-1205",
+      "versions": [
+        "1.20.5",
+        "1.20.6"
+      ],
+      "representative": "1.20.6",
+      "screen": {
+        "reference_terrain_profile": "1.21.1",
+        "reference_exact": false,
+        "mine_rng": "consume_placement_double",
+        "mine_support": "sturdy_top",
+        "aquifer": "1193_center_first",
+        "noise_kernel": "modern",
+        "noise_gates": {
+          "erosion_min": 0.55,
+          "temperature_min": -0.45,
+          "temperature_max": 0.2,
+          "continentalness_min": -0.11,
+          "ridge_abs_max": 0.42,
+          "ridge_outer_min": 0.91,
+          "ridge_outer_absolute": false,
+          "surface_depth_min": 56,
+          "floodedness_max": 0.41,
+          "entrance_max": -0.35,
+          "cheese_max": -0.27
+        },
+        "min_template_gain53": 210,
+        "min_covered_columns": 35,
+        "inverse_k": 9,
+        "reference_max_y": -48,
+        "upper16_batch": 16,
+        "hut_spacing_chunks": 32,
+        "hut_separation_chunks": 8,
+        "hut_salt": 14357620,
+        "mineshaft_probability": 0.004,
+        "seed_translation_bits": 48,
+        "ancient_cities": true,
+        "trail_ruins": true,
+        "trial_chambers": false,
+        "geode_inverse_sqrt": "joml_invsqrt",
+        "coordinate_room": true
+      },
+      "verifier": {
+        "adapter": "generation-service-v1",
+        "version": "1.20.6",
+        "java_major": 21,
+        "artifact_dir": "runs/versions/1.20.6"
+      }
+    },
+    {
+      "id": "hut-121",
+      "versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "representative": "1.21",
+      "screen": {
+        "reference_terrain_profile": "1.21.1",
+        "reference_exact": false,
+        "mine_rng": "consume_placement_double",
+        "mine_support": "sturdy_top",
+        "aquifer": "1193_center_first",
+        "noise_kernel": "modern",
+        "noise_gates": {
+          "erosion_min": 0.55,
+          "temperature_min": -0.45,
+          "temperature_max": 0.2,
+          "continentalness_min": -0.11,
+          "ridge_abs_max": 0.42,
+          "ridge_outer_min": 0.91,
+          "ridge_outer_absolute": false,
+          "surface_depth_min": 56,
+          "floodedness_max": 0.41,
+          "entrance_max": -0.35,
+          "cheese_max": -0.27
+        },
+        "min_template_gain53": 210,
+        "min_covered_columns": 35,
+        "inverse_k": 9,
+        "reference_max_y": -48,
+        "upper16_batch": 16,
+        "hut_spacing_chunks": 32,
+        "hut_separation_chunks": 8,
+        "hut_salt": 14357620,
+        "mineshaft_probability": 0.004,
+        "seed_translation_bits": 48,
+        "ancient_cities": true,
+        "trail_ruins": true,
+        "trial_chambers": true,
+        "geode_inverse_sqrt": "joml_invsqrt",
+        "coordinate_room": true,
+        "trial_placement": {
+          "salt": 94251327,
+          "spacing": 34,
+          "separation": 12,
+          "start_height_span": 21,
+          "start_half_size": 9
+        }
+      },
+      "verifier": {
+        "adapter": "generation-service-v1",
+        "version": "1.21",
+        "java_major": 21,
+        "artifact_dir": "runs/versions/1.21"
+      }
+    },
+    {
+      "id": "hut-1212",
+      "versions": [
+        "1.21.2",
+        "1.21.3"
+      ],
+      "representative": "1.21.3",
+      "screen": {
+        "reference_terrain_profile": "1.21.1",
+        "reference_exact": false,
+        "mine_rng": "consume_placement_double",
+        "mine_support": "sturdy_top",
+        "aquifer": "1212_fluid_updates",
+        "noise_kernel": "modern",
+        "noise_gates": {
+          "erosion_min": 0.55,
+          "temperature_min": -0.45,
+          "temperature_max": 0.2,
+          "continentalness_min": -0.11,
+          "ridge_abs_max": 0.42,
+          "ridge_outer_min": 0.91,
+          "ridge_outer_absolute": false,
+          "surface_depth_min": 56,
+          "floodedness_max": 0.41,
+          "entrance_max": -0.35,
+          "cheese_max": -0.27
+        },
+        "min_template_gain53": 210,
+        "min_covered_columns": 35,
+        "inverse_k": 9,
+        "reference_max_y": -48,
+        "upper16_batch": 16,
+        "hut_spacing_chunks": 32,
+        "hut_separation_chunks": 8,
+        "hut_salt": 14357620,
+        "mineshaft_probability": 0.004,
+        "seed_translation_bits": 48,
+        "ancient_cities": true,
+        "trail_ruins": true,
+        "trial_chambers": true,
+        "geode_inverse_sqrt": "joml_invsqrt",
+        "coordinate_room": true,
+        "trial_placement": {
+          "salt": 94251327,
+          "spacing": 34,
+          "separation": 12,
+          "start_height_span": 21,
+          "start_half_size": 9
+        }
+      },
+      "verifier": {
+        "adapter": "generation-service-v1",
+        "version": "1.21.3",
+        "java_major": 21,
+        "artifact_dir": "runs/versions/1.21.3"
+      }
+    },
+    {
+      "id": "hut-1214",
+      "versions": [
+        "1.21.4"
+      ],
+      "representative": "1.21.4",
+      "screen": {
+        "reference_terrain_profile": "1.21.1",
+        "reference_exact": false,
+        "mine_rng": "consume_placement_double",
+        "mine_support": "sturdy_top",
+        "aquifer": "1212_fluid_updates",
+        "noise_kernel": "modern",
+        "noise_gates": {
+          "erosion_min": 0.55,
+          "temperature_min": -0.45,
+          "temperature_max": 0.2,
+          "continentalness_min": -0.11,
+          "ridge_abs_max": 0.42,
+          "ridge_outer_min": 0.91,
+          "ridge_outer_absolute": false,
+          "surface_depth_min": 56,
+          "floodedness_max": 0.41,
+          "entrance_max": -0.35,
+          "cheese_max": -0.27
+        },
+        "min_template_gain53": 210,
+        "min_covered_columns": 35,
+        "inverse_k": 9,
+        "reference_max_y": -48,
+        "upper16_batch": 16,
+        "hut_spacing_chunks": 32,
+        "hut_separation_chunks": 8,
+        "hut_salt": 14357620,
+        "mineshaft_probability": 0.004,
+        "seed_translation_bits": 48,
+        "ancient_cities": true,
+        "trail_ruins": true,
+        "trial_chambers": true,
+        "geode_inverse_sqrt": "joml_invsqrt",
+        "coordinate_room": true,
+        "trial_placement": {
+          "salt": 94251327,
+          "spacing": 34,
+          "separation": 12,
+          "start_height_span": 21,
+          "start_half_size": 9
+        }
+      },
+      "verifier": {
+        "adapter": "generation-service-v1",
+        "version": "1.21.4",
+        "java_major": 21,
+        "artifact_dir": "runs/versions/1.21.4"
+      }
+    },
+    {
+      "id": "hut-1215",
+      "versions": [
+        "1.21.5"
+      ],
+      "representative": "1.21.5",
+      "screen": {
+        "reference_terrain_profile": "1.21.1",
+        "reference_exact": false,
+        "mine_rng": "consume_placement_double",
+        "mine_support": "sturdy_top",
+        "aquifer": "1212_fluid_updates",
+        "noise_kernel": "modern",
+        "noise_gates": {
+          "erosion_min": 0.55,
+          "temperature_min": -0.45,
+          "temperature_max": 0.2,
+          "continentalness_min": -0.11,
+          "ridge_abs_max": 0.42,
+          "ridge_outer_min": 0.91,
+          "ridge_outer_absolute": false,
+          "surface_depth_min": 56,
+          "floodedness_max": 0.41,
+          "entrance_max": -0.35,
+          "cheese_max": -0.27
+        },
+        "min_template_gain53": 210,
+        "min_covered_columns": 35,
+        "inverse_k": 9,
+        "reference_max_y": -48,
+        "upper16_batch": 16,
+        "hut_spacing_chunks": 32,
+        "hut_separation_chunks": 8,
+        "hut_salt": 14357620,
+        "mineshaft_probability": 0.004,
+        "seed_translation_bits": 48,
+        "ancient_cities": true,
+        "trail_ruins": true,
+        "trial_chambers": true,
+        "geode_inverse_sqrt": "joml_invsqrt",
+        "coordinate_room": true,
+        "trial_placement": {
+          "salt": 94251327,
+          "spacing": 34,
+          "separation": 12,
+          "start_height_span": 21,
+          "start_half_size": 9
+        }
+      },
+      "verifier": {
+        "adapter": "generation-service-v1",
+        "version": "1.21.5",
+        "java_major": 21,
+        "artifact_dir": "runs/versions/1.21.5"
+      }
+    },
+    {
+      "id": "hut-1216",
+      "versions": [
+        "1.21.6",
+        "1.21.7",
+        "1.21.8",
+        "1.21.9",
+        "1.21.10"
+      ],
+      "representative": "1.21.8",
+      "screen": {
+        "reference_terrain_profile": "1.21.1",
+        "reference_exact": false,
+        "mine_rng": "consume_placement_double",
+        "mine_support": "sturdy_top",
+        "aquifer": "1212_fluid_updates",
+        "noise_kernel": "modern",
+        "noise_gates": {
+          "erosion_min": 0.55,
+          "temperature_min": -0.45,
+          "temperature_max": 0.2,
+          "continentalness_min": -0.11,
+          "ridge_abs_max": 0.42,
+          "ridge_outer_min": 0.91,
+          "ridge_outer_absolute": false,
+          "surface_depth_min": 56,
+          "floodedness_max": 0.41,
+          "entrance_max": -0.35,
+          "cheese_max": -0.27
+        },
+        "min_template_gain53": 210,
+        "min_covered_columns": 35,
+        "inverse_k": 9,
+        "reference_max_y": -48,
+        "upper16_batch": 16,
+        "hut_spacing_chunks": 32,
+        "hut_separation_chunks": 8,
+        "hut_salt": 14357620,
+        "mineshaft_probability": 0.004,
+        "seed_translation_bits": 48,
+        "ancient_cities": true,
+        "trail_ruins": true,
+        "trial_chambers": true,
+        "geode_inverse_sqrt": "joml_invsqrt",
+        "coordinate_room": true,
+        "trial_placement": {
+          "salt": 94251327,
+          "spacing": 34,
+          "separation": 12,
+          "start_height_span": 21,
+          "start_half_size": 9
+        }
+      },
+      "verifier": {
+        "adapter": "generation-service-v1",
+        "version": "1.21.8",
+        "java_major": 21,
+        "artifact_dir": "runs/versions/1.21.8"
+      }
+    },
+    {
+      "id": "hut-12111",
+      "versions": [
+        "1.21.11"
+      ],
+      "representative": "1.21.11",
+      "screen": {
+        "reference_terrain_profile": "1.21.1",
+        "reference_exact": false,
+        "mine_rng": "consume_placement_double",
+        "mine_support": "sturdy_top",
+        "aquifer": "1212_fluid_updates",
+        "noise_kernel": "modern",
+        "noise_gates": {
+          "erosion_min": 0.55,
+          "temperature_min": -0.45,
+          "temperature_max": 0.2,
+          "continentalness_min": -0.11,
+          "ridge_abs_max": 0.42,
+          "ridge_outer_min": 0.91,
+          "ridge_outer_absolute": false,
+          "surface_depth_min": 56,
+          "floodedness_max": 0.41,
+          "entrance_max": -0.35,
+          "cheese_max": -0.27
+        },
+        "min_template_gain53": 210,
+        "min_covered_columns": 35,
+        "inverse_k": 9,
+        "reference_max_y": -48,
+        "upper16_batch": 16,
+        "hut_spacing_chunks": 32,
+        "hut_separation_chunks": 8,
+        "hut_salt": 14357620,
+        "mineshaft_probability": 0.004,
+        "seed_translation_bits": 48,
+        "ancient_cities": true,
+        "trail_ruins": true,
+        "trial_chambers": true,
+        "geode_inverse_sqrt": "joml_invsqrt",
+        "coordinate_room": true,
+        "trial_placement": {
+          "salt": 94251327,
+          "spacing": 34,
+          "separation": 12,
+          "start_height_span": 21,
+          "start_half_size": 9
+        }
+      },
+      "verifier": {
+        "adapter": "generation-service-v1",
+        "version": "1.21.11",
+        "java_major": 21,
+        "artifact_dir": "runs/versions/1.21.11"
+      }
+    },
+    {
+      "id": "hut-261",
+      "versions": [
+        "26.1",
+        "26.1.1",
+        "26.1.2"
+      ],
+      "representative": "26.1.2",
+      "screen": {
+        "reference_terrain_profile": "26.1",
+        "reference_exact": false,
+        "mine_rng": "consume_placement_double",
+        "mine_support": "sturdy_top",
+        "aquifer": "1212_fluid_updates",
+        "noise_kernel": "modern",
+        "noise_gates": {
+          "erosion_min": 0.55,
+          "temperature_min": -0.45,
+          "temperature_max": 0.2,
+          "continentalness_min": -0.11,
+          "ridge_abs_max": 0.42,
+          "ridge_outer_min": 0.91,
+          "ridge_outer_absolute": false,
+          "surface_depth_min": 56,
+          "floodedness_max": 0.41,
+          "entrance_max": -0.35,
+          "cheese_max": -0.27
+        },
+        "min_template_gain53": 210,
+        "min_covered_columns": 35,
+        "inverse_k": 9,
+        "reference_max_y": -48,
+        "upper16_batch": 16,
+        "hut_spacing_chunks": 32,
+        "hut_separation_chunks": 8,
+        "hut_salt": 14357620,
+        "mineshaft_probability": 0.004,
+        "seed_translation_bits": 48,
+        "ancient_cities": true,
+        "trail_ruins": true,
+        "trial_chambers": true,
+        "geode_inverse_sqrt": "joml_invsqrt",
+        "coordinate_room": true,
+        "trial_placement": {
+          "salt": 94251327,
+          "spacing": 34,
+          "separation": 12,
+          "start_height_span": 21,
+          "start_half_size": 9
+        }
+      },
+      "verifier": {
+        "adapter": "generation-service-v1",
+        "version": "26.1.2",
+        "java_major": 25,
+        "artifact_dir": "runs/versions/26.1.2"
+      }
+    },
+    {
+      "id": "hut-262",
+      "versions": [
+        "26.2"
+      ],
+      "representative": "26.2",
+      "screen": {
+        "reference_terrain_profile": "26.3",
+        "reference_exact": false,
+        "mine_rng": "consume_placement_double",
+        "mine_support": "sturdy_top",
+        "aquifer": "1212_fluid_updates",
+        "noise_kernel": "modern",
+        "noise_gates": {
+          "erosion_min": 0.55,
+          "temperature_min": -0.45,
+          "temperature_max": 0.2,
+          "continentalness_min": -0.11,
+          "ridge_abs_max": 0.42,
+          "ridge_outer_min": 0.91,
+          "ridge_outer_absolute": false,
+          "surface_depth_min": 56,
+          "floodedness_max": 0.41,
+          "entrance_max": -0.35,
+          "cheese_max": -0.27
+        },
+        "min_template_gain53": 210,
+        "min_covered_columns": 35,
+        "inverse_k": 9,
+        "reference_max_y": -48,
+        "upper16_batch": 16,
+        "hut_spacing_chunks": 32,
+        "hut_separation_chunks": 8,
+        "hut_salt": 14357620,
+        "mineshaft_probability": 0.004,
+        "seed_translation_bits": 48,
+        "ancient_cities": true,
+        "trail_ruins": true,
+        "trial_chambers": true,
+        "geode_inverse_sqrt": "joml_invsqrt",
+        "coordinate_room": true,
+        "trial_placement": {
+          "salt": 94251327,
+          "spacing": 34,
+          "separation": 12,
+          "start_height_span": 21,
+          "start_half_size": 9
+        }
+      },
+      "verifier": {
+        "adapter": "generation-service-v1",
+        "version": "26.2",
+        "java_major": 25,
+        "artifact_dir": "runs/versions/26.2"
+      }
+    },
+    {
+      "id": "hut-263",
+      "versions": [
+        "26.3"
+      ],
+      "representative": "26.3",
+      "screen": {
+        "reference_terrain_profile": "26.3",
+        "reference_exact": false,
+        "mine_rng": "consume_placement_double",
+        "mine_support": "sturdy_top",
+        "aquifer": "1212_fluid_updates",
+        "noise_kernel": "modern",
+        "noise_gates": {
+          "erosion_min": 0.55,
+          "temperature_min": -0.45,
+          "temperature_max": 0.2,
+          "continentalness_min": -0.11,
+          "ridge_abs_max": 0.42,
+          "ridge_outer_min": 0.91,
+          "ridge_outer_absolute": false,
+          "surface_depth_min": 56,
+          "floodedness_max": 0.41,
+          "entrance_max": -0.35,
+          "cheese_max": -0.27
+        },
+        "min_template_gain53": 210,
+        "min_covered_columns": 35,
+        "inverse_k": 9,
+        "reference_max_y": -48,
+        "upper16_batch": 16,
+        "hut_spacing_chunks": 32,
+        "hut_separation_chunks": 8,
+        "hut_salt": 14357620,
+        "mineshaft_probability": 0.004,
+        "seed_translation_bits": 48,
+        "ancient_cities": true,
+        "trail_ruins": true,
+        "trial_chambers": true,
+        "geode_inverse_sqrt": "joml_invsqrt",
+        "coordinate_room": true,
+        "trial_placement": {
+          "salt": 94251327,
+          "spacing": 34,
+          "separation": 12,
+          "start_height_span": 21,
+          "start_half_size": 9
+        }
+      },
+      "verifier": {
+        "adapter": "generation-service-v1",
+        "version": "26.3",
+        "java_major": 25,
+        "artifact_dir": "runs/versions/26.3"
+      }
+    }
+  ]
+}

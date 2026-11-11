@@ -1,0 +1,3234 @@
+[
+  {
+    "original": "270840896143627",
+    "target": "270840896143627",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 192,
+    "g54": 322,
+    "geometry_origin": [
+      20000000,
+      20000000
+    ],
+    "covered": 58,
+    "pieces": 74,
+    "coordinate_gain54": 322,
+    "coordinate_regions_mask": 416,
+    "dimensions": [
+      9,
+      9,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 6,
+    "deep_corridor_gain": 0,
+    "ordered_floor_gain": 322,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "156186219368766",
+    "target": "156186219368766",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 192,
+    "g54": 321,
+    "geometry_origin": [
+      20000000,
+      20000000
+    ],
+    "covered": 54,
+    "pieces": 101,
+    "coordinate_gain54": 321,
+    "coordinate_regions_mask": 416,
+    "dimensions": [
+      9,
+      10,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 18,
+    "deep_corridor_gain": 0,
+    "ordered_floor_gain": 321,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "238320471044200",
+    "target": "238320471044200",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 152,
+    "g54": 326,
+    "geometry_origin": [
+      12582912,
+      20000000
+    ],
+    "covered": 48,
+    "pieces": 67,
+    "coordinate_gain54": 326,
+    "coordinate_regions_mask": 288,
+    "dimensions": [
+      13,
+      10,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 54,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 326,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "72082130192895",
+    "target": "72082130192895",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 77,
+    "g54": 327,
+    "geometry_origin": [
+      12582912,
+      0
+    ],
+    "covered": 56,
+    "pieces": 81,
+    "coordinate_gain54": 327,
+    "coordinate_regions_mask": 249,
+    "dimensions": [
+      13,
+      8,
+      11
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 24,
+    "deep_corridor_gain": 6,
+    "ordered_floor_gain": 327,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "79403688924941",
+    "target": "79403688924941",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 192,
+    "g54": 342,
+    "geometry_origin": [
+      20000000,
+      20000000
+    ],
+    "covered": 54,
+    "pieces": 84,
+    "coordinate_gain54": 342,
+    "coordinate_regions_mask": 504,
+    "dimensions": [
+      9,
+      10,
+      13
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 102,
+    "deep_corridor_gain": 48,
+    "ordered_floor_gain": 342,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "33742181500161",
+    "target": "33742181500161",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 161,
+    "g54": 339,
+    "geometry_origin": [
+      12582912,
+      0
+    ],
+    "covered": 55,
+    "pieces": 114,
+    "coordinate_gain54": 339,
+    "coordinate_regions_mask": 507,
+    "dimensions": [
+      9,
+      10,
+      11
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 117,
+    "deep_corridor_gain": 48,
+    "ordered_floor_gain": 339,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "270325015551372",
+    "target": "270325015551372",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 167,
+    "g54": 315,
+    "geometry_origin": [
+      20000000,
+      0
+    ],
+    "covered": 49,
+    "pieces": 88,
+    "coordinate_gain54": 315,
+    "coordinate_regions_mask": 64,
+    "dimensions": [
+      9,
+      10,
+      11
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 18,
+    "deep_corridor_gain": 6,
+    "ordered_floor_gain": 315,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "247275114130908",
+    "target": "247275114130908",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 203,
+    "g54": 327,
+    "geometry_origin": [
+      20000000,
+      20000000
+    ],
+    "covered": 52,
+    "pieces": 165,
+    "coordinate_gain54": 327,
+    "coordinate_regions_mask": 384,
+    "dimensions": [
+      9,
+      10,
+      13
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 81,
+    "deep_corridor_gain": 6,
+    "ordered_floor_gain": 327,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "22040321013003",
+    "target": "22040321013003",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 152,
+    "g54": 332,
+    "geometry_origin": [
+      12582912,
+      20000000
+    ],
+    "covered": 54,
+    "pieces": 135,
+    "coordinate_gain54": 332,
+    "coordinate_regions_mask": 496,
+    "dimensions": [
+      13,
+      10,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 84,
+    "deep_corridor_gain": 36,
+    "ordered_floor_gain": 332,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "17521258262151",
+    "target": "17521258262151",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 105,
+    "g54": 333,
+    "geometry_origin": [
+      20000000,
+      20000000
+    ],
+    "covered": 54,
+    "pieces": 76,
+    "coordinate_gain54": 333,
+    "coordinate_regions_mask": 504,
+    "dimensions": [
+      9,
+      8,
+      13
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 117,
+    "deep_corridor_gain": 48,
+    "ordered_floor_gain": 333,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "56013757432103",
+    "target": "56013757432103",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 0,
+    "g54": 347,
+    "geometry_origin": [
+      12582912,
+      20000000
+    ],
+    "covered": 59,
+    "pieces": 88,
+    "coordinate_gain54": 347,
+    "coordinate_regions_mask": 511,
+    "dimensions": [
+      13,
+      5,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 228,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 347,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "84052710140514",
+    "target": "84052710140514",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 161,
+    "g54": 315,
+    "geometry_origin": [
+      12582912,
+      0
+    ],
+    "covered": 51,
+    "pieces": 137,
+    "coordinate_gain54": 315,
+    "coordinate_regions_mask": 216,
+    "dimensions": [
+      9,
+      9,
+      8
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 27,
+    "deep_corridor_gain": 21,
+    "ordered_floor_gain": 315,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "59126583094871",
+    "target": "59126583094871",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 152,
+    "g54": 327,
+    "geometry_origin": [
+      12582912,
+      0
+    ],
+    "covered": 52,
+    "pieces": 49,
+    "coordinate_gain54": 327,
+    "coordinate_regions_mask": 504,
+    "dimensions": [
+      9,
+      10,
+      8
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 84,
+    "deep_corridor_gain": 42,
+    "ordered_floor_gain": 327,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "207854129006719",
+    "target": "207854129006719",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 77,
+    "g54": 336,
+    "geometry_origin": [
+      20000000,
+      0
+    ],
+    "covered": 53,
+    "pieces": 100,
+    "coordinate_gain54": 336,
+    "coordinate_regions_mask": 475,
+    "dimensions": [
+      12,
+      8,
+      9
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 132,
+    "deep_corridor_gain": 78,
+    "ordered_floor_gain": 336,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "276814381395709",
+    "target": "276814381395709",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 119,
+    "g54": 336,
+    "geometry_origin": [
+      20000000,
+      0
+    ],
+    "covered": 55,
+    "pieces": 77,
+    "coordinate_gain54": 336,
+    "coordinate_regions_mask": 511,
+    "dimensions": [
+      8,
+      8,
+      11
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 132,
+    "deep_corridor_gain": 78,
+    "ordered_floor_gain": 336,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "205844142296734",
+    "target": "205844142296734",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 72,
+    "g54": 329,
+    "geometry_origin": [
+      20000000,
+      20000000
+    ],
+    "covered": 50,
+    "pieces": 91,
+    "coordinate_gain54": 329,
+    "coordinate_regions_mask": 288,
+    "dimensions": [
+      9,
+      9,
+      8
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 87,
+    "deep_corridor_gain": 57,
+    "ordered_floor_gain": 329,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "210158429286183",
+    "target": "210158429286183",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 152,
+    "g54": 327,
+    "geometry_origin": [
+      12582912,
+      0
+    ],
+    "covered": 52,
+    "pieces": 77,
+    "coordinate_gain54": 327,
+    "coordinate_regions_mask": 504,
+    "dimensions": [
+      9,
+      10,
+      8
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 90,
+    "deep_corridor_gain": 48,
+    "ordered_floor_gain": 327,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "52366875760663",
+    "target": "52366875760663",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 192,
+    "g54": 338,
+    "geometry_origin": [
+      20000000,
+      20000000
+    ],
+    "covered": 49,
+    "pieces": 82,
+    "coordinate_gain54": 338,
+    "coordinate_regions_mask": 496,
+    "dimensions": [
+      9,
+      10,
+      13
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 135,
+    "deep_corridor_gain": 63,
+    "ordered_floor_gain": 338,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "122668201321701",
+    "target": "122668201321701",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 112,
+    "g54": 325,
+    "geometry_origin": [
+      20000000,
+      12582912
+    ],
+    "covered": 55,
+    "pieces": 87,
+    "coordinate_gain54": 325,
+    "coordinate_regions_mask": 384,
+    "dimensions": [
+      8,
+      9,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 99,
+    "deep_corridor_gain": 21,
+    "ordered_floor_gain": 325,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "7511008155485",
+    "target": "7511008155485",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 257,
+    "g54": 320,
+    "geometry_origin": [
+      20000000,
+      20000000
+    ],
+    "covered": 50,
+    "pieces": 127,
+    "coordinate_gain54": 320,
+    "coordinate_regions_mask": 416,
+    "dimensions": [
+      9,
+      10,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 60,
+    "deep_corridor_gain": 30,
+    "ordered_floor_gain": 320,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "216545543246089",
+    "target": "216545543246089",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 112,
+    "g54": 328,
+    "geometry_origin": [
+      20000000,
+      12582912
+    ],
+    "covered": 53,
+    "pieces": 49,
+    "coordinate_gain54": 328,
+    "coordinate_regions_mask": 448,
+    "dimensions": [
+      8,
+      9,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 328,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "122560438653991",
+    "target": "122560438653991",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 112,
+    "g54": 328,
+    "geometry_origin": [
+      20000000,
+      12582912
+    ],
+    "covered": 52,
+    "pieces": 100,
+    "coordinate_gain54": 328,
+    "coordinate_regions_mask": 464,
+    "dimensions": [
+      9,
+      9,
+      13
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 102,
+    "deep_corridor_gain": 48,
+    "ordered_floor_gain": 328,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "257099092823247",
+    "target": "257099092823247",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 136,
+    "g54": 324,
+    "geometry_origin": [
+      12582912,
+      12582912
+    ],
+    "covered": 51,
+    "pieces": 125,
+    "coordinate_gain54": 324,
+    "coordinate_regions_mask": 496,
+    "dimensions": [
+      13,
+      10,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 324,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "38841683134954",
+    "target": "38841683134954",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 0,
+    "g54": 336,
+    "geometry_origin": [
+      12582912,
+      0
+    ],
+    "covered": 60,
+    "pieces": 69,
+    "coordinate_gain54": 336,
+    "coordinate_regions_mask": 511,
+    "dimensions": [
+      9,
+      5,
+      12
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 177,
+    "deep_corridor_gain": 15,
+    "ordered_floor_gain": 336,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "129291339252510",
+    "target": "129291339252510",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 154,
+    "g54": 315,
+    "geometry_origin": [
+      12582912,
+      0
+    ],
+    "covered": 54,
+    "pieces": 61,
+    "coordinate_gain54": 315,
+    "coordinate_regions_mask": 72,
+    "dimensions": [
+      9,
+      10,
+      9
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 75,
+    "deep_corridor_gain": 0,
+    "ordered_floor_gain": 315,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "70576843614181",
+    "target": "70576843614181",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 192,
+    "g54": 318,
+    "geometry_origin": [
+      20000000,
+      20000000
+    ],
+    "covered": 52,
+    "pieces": 86,
+    "coordinate_gain54": 318,
+    "coordinate_regions_mask": 256,
+    "dimensions": [
+      9,
+      10,
+      13
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 60,
+    "deep_corridor_gain": 18,
+    "ordered_floor_gain": 318,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "127936603313260",
+    "target": "127936603313260",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 0,
+    "g54": 338,
+    "geometry_origin": [
+      20000000,
+      20000000
+    ],
+    "covered": 59,
+    "pieces": 60,
+    "coordinate_gain54": 338,
+    "coordinate_regions_mask": 511,
+    "dimensions": [
+      12,
+      5,
+      12
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 222,
+    "deep_corridor_gain": 69,
+    "ordered_floor_gain": 338,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "6626448743630",
+    "target": "6626448743630",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 192,
+    "g54": 321,
+    "geometry_origin": [
+      20000000,
+      20000000
+    ],
+    "covered": 54,
+    "pieces": 70,
+    "coordinate_gain54": 321,
+    "coordinate_regions_mask": 256,
+    "dimensions": [
+      9,
+      10,
+      13
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 81,
+    "deep_corridor_gain": 27,
+    "ordered_floor_gain": 321,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "249680693258115",
+    "target": "249680693258115",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 119,
+    "g54": 324,
+    "geometry_origin": [
+      20000000,
+      0
+    ],
+    "covered": 54,
+    "pieces": 68,
+    "coordinate_gain54": 324,
+    "coordinate_regions_mask": 456,
+    "dimensions": [
+      9,
+      8,
+      11
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 105,
+    "deep_corridor_gain": 27,
+    "ordered_floor_gain": 324,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "74606087202237",
+    "target": "74606087202237",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 168,
+    "g54": 316,
+    "geometry_origin": [
+      20000000,
+      12582912
+    ],
+    "covered": 53,
+    "pieces": 107,
+    "coordinate_gain54": 316,
+    "coordinate_regions_mask": 384,
+    "dimensions": [
+      8,
+      10,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 81,
+    "deep_corridor_gain": 3,
+    "ordered_floor_gain": 316,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "66314269905140",
+    "target": "66314269905140",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 120,
+    "g54": 324,
+    "geometry_origin": [
+      20000000,
+      20000000
+    ],
+    "covered": 54,
+    "pieces": 59,
+    "coordinate_gain54": 324,
+    "coordinate_regions_mask": 448,
+    "dimensions": [
+      9,
+      10,
+      12
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 42,
+    "ordered_floor_gain": 324,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "249821881030968",
+    "target": "249821881030968",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 144,
+    "g54": 324,
+    "geometry_origin": [
+      12582912,
+      20000000
+    ],
+    "covered": 50,
+    "pieces": 77,
+    "coordinate_gain54": 324,
+    "coordinate_regions_mask": 312,
+    "dimensions": [
+      9,
+      10,
+      12
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 102,
+    "deep_corridor_gain": 57,
+    "ordered_floor_gain": 324,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "16776759072794",
+    "target": "16776759072794",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 154,
+    "g54": 324,
+    "geometry_origin": [
+      12582912,
+      0
+    ],
+    "covered": 54,
+    "pieces": 88,
+    "coordinate_gain54": 324,
+    "coordinate_regions_mask": 216,
+    "dimensions": [
+      9,
+      10,
+      9
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 324,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "191629661992997",
+    "target": "191629661992997",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 154,
+    "g54": 324,
+    "geometry_origin": [
+      12582912,
+      0
+    ],
+    "covered": 54,
+    "pieces": 119,
+    "coordinate_gain54": 324,
+    "coordinate_regions_mask": 216,
+    "dimensions": [
+      9,
+      10,
+      9
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 324,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "179919443578528",
+    "target": "179919443578528",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 144,
+    "g54": 329,
+    "geometry_origin": [
+      12582912,
+      20000000
+    ],
+    "covered": 50,
+    "pieces": 86,
+    "coordinate_gain54": 329,
+    "coordinate_regions_mask": 432,
+    "dimensions": [
+      9,
+      9,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 72,
+    "deep_corridor_gain": 15,
+    "ordered_floor_gain": 329,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "56883104865343",
+    "target": "56883104865343",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 168,
+    "g54": 329,
+    "geometry_origin": [
+      20000000,
+      12582912
+    ],
+    "covered": 50,
+    "pieces": 94,
+    "coordinate_gain54": 329,
+    "coordinate_regions_mask": 432,
+    "dimensions": [
+      9,
+      10,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 126,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 329,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "164430392268950",
+    "target": "164430392268950",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 160,
+    "g54": 316,
+    "geometry_origin": [
+      20000000,
+      0
+    ],
+    "covered": 51,
+    "pieces": 96,
+    "coordinate_gain54": 316,
+    "coordinate_regions_mask": 64,
+    "dimensions": [
+      9,
+      10,
+      11
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 93,
+    "deep_corridor_gain": 0,
+    "ordered_floor_gain": 316,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "233044781246776",
+    "target": "233044781246776",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 198,
+    "g54": 324,
+    "geometry_origin": [
+      20000000,
+      20000000
+    ],
+    "covered": 51,
+    "pieces": 130,
+    "coordinate_gain54": 324,
+    "coordinate_regions_mask": 432,
+    "dimensions": [
+      9,
+      10,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 118,
+    "deep_corridor_gain": 48,
+    "ordered_floor_gain": 324,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "104252102025888",
+    "target": "104252102025888",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 160,
+    "g54": 323,
+    "geometry_origin": [
+      20000000,
+      0
+    ],
+    "covered": 53,
+    "pieces": 97,
+    "coordinate_gain54": 323,
+    "coordinate_regions_mask": 216,
+    "dimensions": [
+      9,
+      10,
+      10
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 323,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "269952292699305",
+    "target": "269952292699305",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 0,
+    "g54": 320,
+    "geometry_origin": [
+      20000000,
+      20000000
+    ],
+    "covered": 60,
+    "pieces": 116,
+    "coordinate_gain54": 320,
+    "coordinate_regions_mask": 416,
+    "dimensions": [
+      9,
+      5,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 123,
+    "deep_corridor_gain": 0,
+    "ordered_floor_gain": 320,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "235085125626769",
+    "target": "235085125626769",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 112,
+    "g54": 325,
+    "geometry_origin": [
+      20000000,
+      12582912
+    ],
+    "covered": 52,
+    "pieces": 54,
+    "coordinate_gain54": 325,
+    "coordinate_regions_mask": 384,
+    "dimensions": [
+      8,
+      9,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 108,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 325,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "176715034139803",
+    "target": "176715034139803",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 148,
+    "g54": 316,
+    "geometry_origin": [
+      20000000,
+      0
+    ],
+    "covered": 56,
+    "pieces": 112,
+    "coordinate_gain54": 316,
+    "coordinate_regions_mask": 192,
+    "dimensions": [
+      13,
+      9,
+      8
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 54,
+    "deep_corridor_gain": 30,
+    "ordered_floor_gain": 316,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "23551471837265",
+    "target": "23551471837265",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 112,
+    "g54": 319,
+    "geometry_origin": [
+      20000000,
+      12582912
+    ],
+    "covered": 53,
+    "pieces": 144,
+    "coordinate_gain54": 319,
+    "coordinate_regions_mask": 384,
+    "dimensions": [
+      8,
+      9,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 63,
+    "deep_corridor_gain": 18,
+    "ordered_floor_gain": 319,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "239137900403942",
+    "target": "239137900403942",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 175,
+    "g54": 318,
+    "geometry_origin": [
+      12582912,
+      12582912
+    ],
+    "covered": 48,
+    "pieces": 239,
+    "coordinate_gain54": 318,
+    "coordinate_regions_mask": 144,
+    "dimensions": [
+      13,
+      10,
+      9
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 81,
+    "deep_corridor_gain": 63,
+    "ordered_floor_gain": 318,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "62109482200278",
+    "target": "62109482200278",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 147,
+    "g54": 318,
+    "geometry_origin": [
+      12582912,
+      0
+    ],
+    "covered": 53,
+    "pieces": 122,
+    "coordinate_gain54": 318,
+    "coordinate_regions_mask": 216,
+    "dimensions": [
+      9,
+      9,
+      10
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 318,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "129386758421252",
+    "target": "129386758421252",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 168,
+    "g54": 323,
+    "geometry_origin": [
+      20000000,
+      12582912
+    ],
+    "covered": 50,
+    "pieces": 136,
+    "coordinate_gain54": 323,
+    "coordinate_regions_mask": 432,
+    "dimensions": [
+      9,
+      10,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 120,
+    "deep_corridor_gain": 48,
+    "ordered_floor_gain": 323,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "69077451534200",
+    "target": "69077451534200",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 147,
+    "g54": 318,
+    "geometry_origin": [
+      12582912,
+      0
+    ],
+    "covered": 53,
+    "pieces": 45,
+    "coordinate_gain54": 318,
+    "coordinate_regions_mask": 216,
+    "dimensions": [
+      9,
+      9,
+      10
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 318,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "102503641711141",
+    "target": "102503641711141",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 112,
+    "g54": 322,
+    "geometry_origin": [
+      20000000,
+      0
+    ],
+    "covered": 54,
+    "pieces": 73,
+    "coordinate_gain54": 322,
+    "coordinate_regions_mask": 448,
+    "dimensions": [
+      8,
+      9,
+      8
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 108,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 322,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "103583157586591",
+    "target": "103583157586591",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 168,
+    "g54": 318,
+    "geometry_origin": [
+      12582912,
+      0
+    ],
+    "covered": 55,
+    "pieces": 113,
+    "coordinate_gain54": 318,
+    "coordinate_regions_mask": 216,
+    "dimensions": [
+      9,
+      10,
+      8
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 126,
+    "deep_corridor_gain": 3,
+    "ordered_floor_gain": 318,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "106886120125189",
+    "target": "106886120125189",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 147,
+    "g54": 318,
+    "geometry_origin": [
+      12582912,
+      12582912
+    ],
+    "covered": 52,
+    "pieces": 81,
+    "coordinate_gain54": 318,
+    "coordinate_regions_mask": 432,
+    "dimensions": [
+      9,
+      9,
+      13
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 318,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "268157432621214",
+    "target": "268157432621214",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 196,
+    "g54": 318,
+    "geometry_origin": [
+      12582912,
+      0
+    ],
+    "covered": 53,
+    "pieces": 97,
+    "coordinate_gain54": 318,
+    "coordinate_regions_mask": 216,
+    "dimensions": [
+      9,
+      9,
+      10
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 318,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "35722378350450",
+    "target": "35722378350450",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 338,
+    "g54": 316,
+    "geometry_origin": [
+      0,
+      12582912
+    ],
+    "covered": 53,
+    "pieces": 66,
+    "coordinate_gain54": 316,
+    "coordinate_regions_mask": 54,
+    "dimensions": [
+      8,
+      10,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 106,
+    "deep_corridor_gain": 0,
+    "ordered_floor_gain": 316,
+    "bridge_columns": 0,
+    "prior_origin": [
+      0,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "219662037160845",
+    "target": "219662037160845",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 0,
+    "g54": 322,
+    "geometry_origin": [
+      0,
+      20000000
+    ],
+    "covered": 55,
+    "pieces": 79,
+    "coordinate_gain54": 322,
+    "coordinate_regions_mask": 511,
+    "dimensions": [
+      8,
+      5,
+      12
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 147,
+    "deep_corridor_gain": 45,
+    "ordered_floor_gain": 322,
+    "bridge_columns": 0,
+    "prior_origin": [
+      0,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "23863591758781",
+    "target": "23863591758781",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 140,
+    "g54": 318,
+    "geometry_origin": [
+      12582912,
+      0
+    ],
+    "covered": 54,
+    "pieces": 65,
+    "coordinate_gain54": 318,
+    "coordinate_regions_mask": 216,
+    "dimensions": [
+      9,
+      9,
+      8
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 318,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "14452884453148",
+    "target": "14452884453148",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 168,
+    "g54": 322,
+    "geometry_origin": [
+      20000000,
+      12582912
+    ],
+    "covered": 50,
+    "pieces": 71,
+    "coordinate_gain54": 322,
+    "coordinate_regions_mask": 438,
+    "dimensions": [
+      8,
+      10,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 126,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 322,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "244538862821570",
+    "target": "244538862821570",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 154,
+    "g54": 318,
+    "geometry_origin": [
+      12582912,
+      0
+    ],
+    "covered": 54,
+    "pieces": 127,
+    "coordinate_gain54": 318,
+    "coordinate_regions_mask": 216,
+    "dimensions": [
+      9,
+      9,
+      8
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 318,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "181718339927391",
+    "target": "181718339927391",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 192,
+    "g54": 315,
+    "geometry_origin": [
+      20000000,
+      20000000
+    ],
+    "covered": 52,
+    "pieces": 107,
+    "coordinate_gain54": 315,
+    "coordinate_regions_mask": 256,
+    "dimensions": [
+      9,
+      10,
+      13
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 69,
+    "deep_corridor_gain": 24,
+    "ordered_floor_gain": 315,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "220063216992503",
+    "target": "220063216992503",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 168,
+    "g54": 322,
+    "geometry_origin": [
+      20000000,
+      12582912
+    ],
+    "covered": 50,
+    "pieces": 102,
+    "coordinate_gain54": 322,
+    "coordinate_regions_mask": 438,
+    "dimensions": [
+      8,
+      10,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 126,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 322,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "90484848181772",
+    "target": "90484848181772",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 161,
+    "g54": 318,
+    "geometry_origin": [
+      12582912,
+      0
+    ],
+    "covered": 53,
+    "pieces": 90,
+    "coordinate_gain54": 318,
+    "coordinate_regions_mask": 456,
+    "dimensions": [
+      9,
+      10,
+      11
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 318,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "253628621222303",
+    "target": "253628621222303",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 140,
+    "g54": 318,
+    "geometry_origin": [
+      12582912,
+      0
+    ],
+    "covered": 55,
+    "pieces": 83,
+    "coordinate_gain54": 318,
+    "coordinate_regions_mask": 72,
+    "dimensions": [
+      9,
+      9,
+      11
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 42,
+    "ordered_floor_gain": 318,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "126906482514279",
+    "target": "126906482514279",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 112,
+    "g54": 316,
+    "geometry_origin": [
+      20000000,
+      12582912
+    ],
+    "covered": 55,
+    "pieces": 134,
+    "coordinate_gain54": 316,
+    "coordinate_regions_mask": 384,
+    "dimensions": [
+      8,
+      9,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 90,
+    "deep_corridor_gain": 15,
+    "ordered_floor_gain": 316,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "45649019997097",
+    "target": "45649019997097",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 154,
+    "g54": 315,
+    "geometry_origin": [
+      12582912,
+      0
+    ],
+    "covered": 56,
+    "pieces": 93,
+    "coordinate_gain54": 315,
+    "coordinate_regions_mask": 72,
+    "dimensions": [
+      9,
+      10,
+      9
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 87,
+    "deep_corridor_gain": 18,
+    "ordered_floor_gain": 315,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "273083108640759",
+    "target": "273083108640759",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 119,
+    "g54": 315,
+    "geometry_origin": [
+      20000000,
+      0
+    ],
+    "covered": 52,
+    "pieces": 160,
+    "coordinate_gain54": 315,
+    "coordinate_regions_mask": 448,
+    "dimensions": [
+      12,
+      10,
+      13
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 111,
+    "deep_corridor_gain": 69,
+    "ordered_floor_gain": 315,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "44379104866892",
+    "target": "44379104866892",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 192,
+    "g54": 321,
+    "geometry_origin": [
+      20000000,
+      20000000
+    ],
+    "covered": 49,
+    "pieces": 142,
+    "coordinate_gain54": 321,
+    "coordinate_regions_mask": 416,
+    "dimensions": [
+      9,
+      9,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 126,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 321,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "216060757428016",
+    "target": "216060757428016",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 119,
+    "g54": 318,
+    "geometry_origin": [
+      20000000,
+      0
+    ],
+    "covered": 55,
+    "pieces": 43,
+    "coordinate_gain54": 318,
+    "coordinate_regions_mask": 192,
+    "dimensions": [
+      9,
+      8,
+      10
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 108,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 318,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "227225058341117",
+    "target": "227225058341117",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 168,
+    "g54": 318,
+    "geometry_origin": [
+      12582912,
+      0
+    ],
+    "covered": 54,
+    "pieces": 99,
+    "coordinate_gain54": 318,
+    "coordinate_regions_mask": 216,
+    "dimensions": [
+      9,
+      10,
+      8
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 318,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "32688896208378",
+    "target": "32688896208378",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 168,
+    "g54": 316,
+    "geometry_origin": [
+      20000000,
+      12582912
+    ],
+    "covered": 51,
+    "pieces": 119,
+    "coordinate_gain54": 316,
+    "coordinate_regions_mask": 384,
+    "dimensions": [
+      9,
+      9,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 84,
+    "deep_corridor_gain": 42,
+    "ordered_floor_gain": 316,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "65574836442465",
+    "target": "65574836442465",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 192,
+    "g54": 324,
+    "geometry_origin": [
+      20000000,
+      20000000
+    ],
+    "covered": 48,
+    "pieces": 95,
+    "coordinate_gain54": 324,
+    "coordinate_regions_mask": 256,
+    "dimensions": [
+      8,
+      10,
+      8
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 156,
+    "deep_corridor_gain": 72,
+    "ordered_floor_gain": 324,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "176957448327255",
+    "target": "176957448327255",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 0,
+    "g54": 320,
+    "geometry_origin": [
+      0,
+      12582912
+    ],
+    "covered": 58,
+    "pieces": 54,
+    "coordinate_gain54": 320,
+    "coordinate_regions_mask": 146,
+    "dimensions": [
+      12,
+      5,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 209,
+    "deep_corridor_gain": 30,
+    "ordered_floor_gain": 320,
+    "bridge_columns": 0,
+    "prior_origin": [
+      0,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "16543832299652",
+    "target": "16543832299652",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 72,
+    "g54": 319,
+    "geometry_origin": [
+      0,
+      20000000
+    ],
+    "covered": 57,
+    "pieces": 82,
+    "coordinate_gain54": 319,
+    "coordinate_regions_mask": 511,
+    "dimensions": [
+      12,
+      5,
+      8
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 133,
+    "deep_corridor_gain": 48,
+    "ordered_floor_gain": 319,
+    "bridge_columns": 0,
+    "prior_origin": [
+      0,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "97095118451161",
+    "target": "97095118451161",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 140,
+    "g54": 318,
+    "geometry_origin": [
+      12582912,
+      0
+    ],
+    "covered": 53,
+    "pieces": 75,
+    "coordinate_gain54": 318,
+    "coordinate_regions_mask": 72,
+    "dimensions": [
+      9,
+      9,
+      11
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 318,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "108087780688918",
+    "target": "108087780688918",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 230,
+    "g54": 318,
+    "geometry_origin": [
+      12582912,
+      20000000
+    ],
+    "covered": 55,
+    "pieces": 54,
+    "coordinate_gain54": 318,
+    "coordinate_regions_mask": 32,
+    "dimensions": [
+      9,
+      10,
+      12
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 108,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 318,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "67211130177529",
+    "target": "67211130177529",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 168,
+    "g54": 316,
+    "geometry_origin": [
+      20000000,
+      12582912
+    ],
+    "covered": 55,
+    "pieces": 67,
+    "coordinate_gain54": 316,
+    "coordinate_regions_mask": 384,
+    "dimensions": [
+      8,
+      10,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 90,
+    "deep_corridor_gain": 36,
+    "ordered_floor_gain": 316,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "188875040059222",
+    "target": "188875040059222",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 112,
+    "g54": 316,
+    "geometry_origin": [
+      20000000,
+      0
+    ],
+    "covered": 52,
+    "pieces": 99,
+    "coordinate_gain54": 316,
+    "coordinate_regions_mask": 64,
+    "dimensions": [
+      8,
+      9,
+      11
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 316,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "232801943801600",
+    "target": "232801943801600",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 136,
+    "g54": 316,
+    "geometry_origin": [
+      20000000,
+      0
+    ],
+    "covered": 51,
+    "pieces": 90,
+    "coordinate_gain54": 316,
+    "coordinate_regions_mask": 64,
+    "dimensions": [
+      9,
+      9,
+      11
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 316,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "232991215398852",
+    "target": "232991215398852",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 112,
+    "g54": 316,
+    "geometry_origin": [
+      20000000,
+      0
+    ],
+    "covered": 52,
+    "pieces": 148,
+    "coordinate_gain54": 316,
+    "coordinate_regions_mask": 448,
+    "dimensions": [
+      8,
+      9,
+      8
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 316,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "239762756211254",
+    "target": "239762756211254",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 120,
+    "g54": 316,
+    "geometry_origin": [
+      20000000,
+      0
+    ],
+    "covered": 52,
+    "pieces": 139,
+    "coordinate_gain54": 316,
+    "coordinate_regions_mask": 448,
+    "dimensions": [
+      8,
+      9,
+      8
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 316,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "149741312270373",
+    "target": "149741312270373",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 140,
+    "g54": 324,
+    "geometry_origin": [
+      12582912,
+      0
+    ],
+    "covered": 49,
+    "pieces": 60,
+    "coordinate_gain54": 324,
+    "coordinate_regions_mask": 216,
+    "dimensions": [
+      13,
+      10,
+      8
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 144,
+    "deep_corridor_gain": 72,
+    "ordered_floor_gain": 324,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "50986953436518",
+    "target": "50986953436518",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 119,
+    "g54": 318,
+    "geometry_origin": [
+      20000000,
+      0
+    ],
+    "covered": 53,
+    "pieces": 113,
+    "coordinate_gain54": 318,
+    "coordinate_regions_mask": 192,
+    "dimensions": [
+      9,
+      8,
+      10
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 27,
+    "ordered_floor_gain": 318,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "52628507526362",
+    "target": "52628507526362",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 147,
+    "g54": 318,
+    "geometry_origin": [
+      12582912,
+      12582912
+    ],
+    "covered": 52,
+    "pieces": 70,
+    "coordinate_gain54": 318,
+    "coordinate_regions_mask": 432,
+    "dimensions": [
+      9,
+      9,
+      13
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 318,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "185584893168580",
+    "target": "185584893168580",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 161,
+    "g54": 318,
+    "geometry_origin": [
+      12582912,
+      12582912
+    ],
+    "covered": 49,
+    "pieces": 198,
+    "coordinate_gain54": 318,
+    "coordinate_regions_mask": 16,
+    "dimensions": [
+      9,
+      9,
+      9
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 120,
+    "deep_corridor_gain": 18,
+    "ordered_floor_gain": 318,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "262352677925520",
+    "target": "262352677925520",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 126,
+    "g54": 318,
+    "geometry_origin": [
+      0,
+      0
+    ],
+    "covered": 53,
+    "pieces": 116,
+    "coordinate_gain54": 318,
+    "coordinate_regions_mask": 1,
+    "dimensions": [
+      11,
+      9,
+      11
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 120,
+    "deep_corridor_gain": 78,
+    "ordered_floor_gain": 318,
+    "bridge_columns": 0,
+    "prior_origin": [
+      0,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "39257671307020",
+    "target": "39257671307020",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 120,
+    "g54": 317,
+    "geometry_origin": [
+      20000000,
+      20000000
+    ],
+    "covered": 49,
+    "pieces": 76,
+    "coordinate_gain54": 317,
+    "coordinate_regions_mask": 256,
+    "dimensions": [
+      9,
+      10,
+      12
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 108,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 317,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "113180230112386",
+    "target": "113180230112386",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 160,
+    "g54": 317,
+    "geometry_origin": [
+      20000000,
+      12582912
+    ],
+    "covered": 53,
+    "pieces": 83,
+    "coordinate_gain54": 317,
+    "coordinate_regions_mask": 384,
+    "dimensions": [
+      9,
+      9,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 87,
+    "deep_corridor_gain": 9,
+    "ordered_floor_gain": 317,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "2029861008132",
+    "target": "2029861008132",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 0,
+    "g54": 316,
+    "geometry_origin": [
+      20000000,
+      0
+    ],
+    "covered": 54,
+    "pieces": 74,
+    "coordinate_gain54": 316,
+    "coordinate_regions_mask": 192,
+    "dimensions": [
+      13,
+      5,
+      10
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 108,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 316,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "68498580256852",
+    "target": "68498580256852",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 72,
+    "g54": 316,
+    "geometry_origin": [
+      20000000,
+      20000000
+    ],
+    "covered": 47,
+    "pieces": 90,
+    "coordinate_gain54": 316,
+    "coordinate_regions_mask": 256,
+    "dimensions": [
+      8,
+      9,
+      8
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 120,
+    "deep_corridor_gain": 66,
+    "ordered_floor_gain": 316,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "69082641999127",
+    "target": "69082641999127",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 120,
+    "g54": 316,
+    "geometry_origin": [
+      20000000,
+      12582912
+    ],
+    "covered": 53,
+    "pieces": 82,
+    "coordinate_gain54": 316,
+    "coordinate_regions_mask": 384,
+    "dimensions": [
+      11,
+      10,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 316,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "92251212600821",
+    "target": "92251212600821",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 182,
+    "g54": 316,
+    "geometry_origin": [
+      20000000,
+      0
+    ],
+    "covered": 52,
+    "pieces": 98,
+    "coordinate_gain54": 316,
+    "coordinate_regions_mask": 448,
+    "dimensions": [
+      8,
+      10,
+      8
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 316,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "202196286072087",
+    "target": "202196286072087",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 42,
+    "g54": 316,
+    "geometry_origin": [
+      0,
+      12582912
+    ],
+    "covered": 54,
+    "pieces": 59,
+    "coordinate_gain54": 316,
+    "coordinate_regions_mask": 2,
+    "dimensions": [
+      11,
+      5,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 125,
+    "deep_corridor_gain": 48,
+    "ordered_floor_gain": 316,
+    "bridge_columns": 0,
+    "prior_origin": [
+      0,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "234993661207416",
+    "target": "234993661207416",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 136,
+    "g54": 316,
+    "geometry_origin": [
+      20000000,
+      0
+    ],
+    "covered": 53,
+    "pieces": 125,
+    "coordinate_gain54": 316,
+    "coordinate_regions_mask": 192,
+    "dimensions": [
+      8,
+      10,
+      10
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 316,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "268610269136232",
+    "target": "268610269136232",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 126,
+    "g54": 316,
+    "geometry_origin": [
+      20000000,
+      0
+    ],
+    "covered": 52,
+    "pieces": 136,
+    "coordinate_gain54": 316,
+    "coordinate_regions_mask": 448,
+    "dimensions": [
+      8,
+      9,
+      8
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 96,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 316,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "278091170976304",
+    "target": "278091170976304",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 0,
+    "g54": 316,
+    "geometry_origin": [
+      20000000,
+      12582912
+    ],
+    "covered": 58,
+    "pieces": 75,
+    "coordinate_gain54": 316,
+    "coordinate_regions_mask": 128,
+    "dimensions": [
+      9,
+      5,
+      13
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 227,
+    "deep_corridor_gain": 18,
+    "ordered_floor_gain": 316,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "4090468860360",
+    "target": "4090468860360",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 120,
+    "g54": 315,
+    "geometry_origin": [
+      20000000,
+      20000000
+    ],
+    "covered": 46,
+    "pieces": 60,
+    "coordinate_gain54": 315,
+    "coordinate_regions_mask": 256,
+    "dimensions": [
+      8,
+      10,
+      13
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 123,
+    "deep_corridor_gain": 69,
+    "ordered_floor_gain": 315,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "63833210587512",
+    "target": "63833210587512",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 140,
+    "g54": 315,
+    "geometry_origin": [
+      0,
+      12582912
+    ],
+    "covered": 55,
+    "pieces": 125,
+    "coordinate_gain54": 315,
+    "coordinate_regions_mask": 438,
+    "dimensions": [
+      10,
+      10,
+      9
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 93,
+    "deep_corridor_gain": 15,
+    "ordered_floor_gain": 315,
+    "bridge_columns": 0,
+    "prior_origin": [
+      0,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "65257698859380",
+    "target": "65257698859380",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 160,
+    "g54": 315,
+    "geometry_origin": [
+      20000000,
+      12582912
+    ],
+    "covered": 48,
+    "pieces": 85,
+    "coordinate_gain54": 315,
+    "coordinate_regions_mask": 384,
+    "dimensions": [
+      9,
+      9,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 126,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 315,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "116558900681780",
+    "target": "116558900681780",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 218,
+    "g54": 315,
+    "geometry_origin": [
+      20000000,
+      0
+    ],
+    "covered": 51,
+    "pieces": 95,
+    "coordinate_gain54": 315,
+    "coordinate_regions_mask": 192,
+    "dimensions": [
+      9,
+      9,
+      10
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 108,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 315,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "125270702977883",
+    "target": "125270702977883",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 112,
+    "g54": 315,
+    "geometry_origin": [
+      20000000,
+      12582912
+    ],
+    "covered": 50,
+    "pieces": 88,
+    "coordinate_gain54": 315,
+    "coordinate_regions_mask": 384,
+    "dimensions": [
+      8,
+      9,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 126,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 315,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "206363678481715",
+    "target": "206363678481715",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 140,
+    "g54": 315,
+    "geometry_origin": [
+      0,
+      0
+    ],
+    "covered": 54,
+    "pieces": 93,
+    "coordinate_gain54": 315,
+    "coordinate_regions_mask": 511,
+    "dimensions": [
+      8,
+      9,
+      8
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 111,
+    "deep_corridor_gain": 69,
+    "ordered_floor_gain": 315,
+    "bridge_columns": 0,
+    "prior_origin": [
+      0,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "256476375608264",
+    "target": "256476375608264",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 147,
+    "g54": 315,
+    "geometry_origin": [
+      20000000,
+      12582912
+    ],
+    "covered": 47,
+    "pieces": 87,
+    "coordinate_gain54": 315,
+    "coordinate_regions_mask": 128,
+    "dimensions": [
+      13,
+      10,
+      9
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 111,
+    "deep_corridor_gain": 69,
+    "ordered_floor_gain": 315,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      12582912
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "264515701534609",
+    "target": "264515701534609",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 119,
+    "g54": 315,
+    "geometry_origin": [
+      20000000,
+      0
+    ],
+    "covered": 55,
+    "pieces": 66,
+    "coordinate_gain54": 315,
+    "coordinate_regions_mask": 448,
+    "dimensions": [
+      8,
+      8,
+      11
+    ],
+    "room_bottom": -61,
+    "auxiliary_corridor_gain": 87,
+    "deep_corridor_gain": 0,
+    "ordered_floor_gain": 315,
+    "bridge_columns": 0,
+    "prior_origin": [
+      20000000,
+      0
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  },
+  {
+    "original": "281322661135392",
+    "target": "281322661135392",
+    "relx": 0,
+    "relz": 0,
+    "width": 7,
+    "g53": 144,
+    "g54": 315,
+    "geometry_origin": [
+      12582912,
+      20000000
+    ],
+    "covered": 47,
+    "pieces": 56,
+    "coordinate_gain54": 315,
+    "coordinate_regions_mask": 416,
+    "dimensions": [
+      9,
+      9,
+      9
+    ],
+    "room_bottom": -62,
+    "auxiliary_corridor_gain": 126,
+    "deep_corridor_gain": 54,
+    "ordered_floor_gain": 315,
+    "bridge_columns": 0,
+    "prior_origin": [
+      12582912,
+      20000000
+    ],
+    "layout_profile": "normal-same-chunk-v1"
+  }
+]

@@ -2,48 +2,70 @@
 
 # 版本与种子互通
 
-中文 | [English](#english)
+[![中文](https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87-red)](#chinese) [![English](https://img.shields.io/badge/Language-English-blue)](#english)
 
-当前搜索覆盖 **1.19.3–26.3 的全部正式版**。
+支持 **1.19.3–26.3 的全部正式版**，原版验证按以下 14 个区间运行。同一区间内，小屋相关生成行为相同；程序选用其中一个版本实际生成，称为代表版本。
 
 ![版本与种子互通](images/version-compatibility-zh.svg)
 
-图中两行使用同一条版本轴。蓝色表示**通常互通**：1.19.3–1.20.6 共用小屋、矿井与洞穴筛选核心，1.21–26.3 增加试炼密室处理。试炼密室能直接抬高小屋，因此 1.21 是这一层的分界。苍白之园等远离沼泽的新增群系归入同一段。
+图中区间适用于正常世界。大型群系和单群系的配置见[世界类型](../README.md#世界类型)。
 
-绿色表示**严格互通**：默认主世界、新生成区块、相同种子、坐标和生成顺序下，同一色块内的小屋结果互通。1.21.9–1.21.11 的小屋、矿井与含水层计算等效，环境属性和类名改动归入查询服务适配。
+## 版本区间与改动
 
-## 查询服务
+| 验证区间 | 代表版本 | 起点版本的具体改动 |
+|---|---|---|
+| 1.19.3 | 1.19.3 | — |
+| 1.19.4 | 1.19.4 | 紫水晶洞生成修改 |
+| 1.20–1.20.1 | 1.20.1 | 新加入古迹废墟 |
+| 1.20.2–1.20.4 | 1.20.2 | 新增中型钻石矿地物 |
+| 1.20.5–1.20.6 | 1.20.6 | 沉船生成修改 |
+| 1.21–1.21.1 | 1.21 | 新加入试炼密室 |
+| 1.21.2–1.21.3 | 1.21.3 | 含水层流体更新修改；试炼密室生成修改 |
+| 1.21.4 | 1.21.4 | 新加入苍白之园；地物排序变化 |
+| 1.21.5 | 1.21.5 | 新加入萤火虫灌木 |
+| 1.21.6–1.21.10 | 1.21.8 | 落叶生成修改 |
+| 1.21.11 | 1.21.11 | 水下岩浆块生成修改 |
+| 26.1–26.1.2 | 26.1.2 | 蘑菇等植物生成修改 |
+| 26.2 | 26.2 | 新加入硫磺洞穴；洞穴噪声计算修改 |
+| 26.3 | 26.3 | 新加入斑驳森林；噪声计算精度修改 |
 
-所有支持版本共用一个 `query-service.jar`，启动时选择对应的世界上下文适配器。准备一个版本会将其适配器加入共享 JAR。准备各验证版本的服务端文件后，`prepare_terrain_service.py --all` 将全部适配器打包。1.19.3–1.21.11 使用 Java 21，26.x 使用 Java 25。
+## 运行配置
 
-## 区块生成顺序
-
-这些小屋有小概率受区块加载顺序影响，同一种子和坐标的小屋高度可能随加载顺序变化。[独立验证](VERIFICATION.md)支持从中心、东侧和西侧接近小屋。
-
-[hut.json](../data/versions/hut.json)选择筛选参数与验证版本；[compatibility.json](../data/versions/compatibility.json)记录图中的两类互通区间；[source-commits.json](../data/versions/source-commits.json)记录复核的源码版本。
+1.19.3–1.21.11 使用 Java 21，26.x 使用 Java 25。[profiles.json](../config/versions/profiles.json) 保存每个版本使用的筛选参数与验证代表版本；[compatibility.json](../config/versions/compatibility.json) 保存图中的版本分组。服务准备和加载顺序见[原版验证](VERIFICATION.md)。
 
 ---
 
 <a id="english"></a>
 
-[中文](#chinese) | English
-
 # Versions and seed compatibility
 
-The search covers **every release from 1.19.3 through 26.3**.
+[![中文](https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87-red)](#chinese) [![English](https://img.shields.io/badge/Language-English-blue)](#english)
+
+Supports **every release from 1.19.3 through 26.3**, with vanilla verification organized into 14 intervals. Versions in an interval share the same hut-related generation behavior; the program runs one chosen version, called its representative.
 
 ![Version and seed compatibility](images/version-compatibility-en.svg)
 
-Both rows use the same release axis. Blue shows **usual seed transfer**: 1.19.3–1.20.6 share the hut, mineshaft, and cave screening core; 1.21–26.3 add trial-chamber handling. Trial chambers can directly raise hut height, making 1.21 the boundary at this layer. New biomes far from swamps, including the pale garden, stay within one group.
+The diagram applies to normal worlds. For large-biome and single-biome settings, see [world types](../README.md#world-types).
 
-Green shows **exact equivalence**: hut results transfer within one bar for the default Overworld, newly generated chunks, and the same seed, coordinates, and generation order. Hut, mineshaft, and aquifer calculations are equivalent across 1.21.9–1.21.11; environmental attributes and class renames are handled by the query adapter. 
+## Version intervals and changes
 
-## Query service
+| Verification interval | Representative | Changes at the start of the interval |
+|---|---|---|
+| 1.19.3 | 1.19.3 | — |
+| 1.19.4 | 1.19.4 | Amethyst geode generation changed |
+| 1.20–1.20.1 | 1.20.1 | Trail ruins added |
+| 1.20.2–1.20.4 | 1.20.2 | Medium diamond ore feature added |
+| 1.20.5–1.20.6 | 1.20.6 | Shipwreck generation changed |
+| 1.21–1.21.1 | 1.21 | Trial chambers added |
+| 1.21.2–1.21.3 | 1.21.3 | Aquifer fluid updates and trial chamber generation changed |
+| 1.21.4 | 1.21.4 | Pale garden added; feature ordering changed |
+| 1.21.5 | 1.21.5 | Firefly bush added |
+| 1.21.6–1.21.10 | 1.21.8 | Leaf litter generation changed |
+| 1.21.11 | 1.21.11 | Underwater magma generation changed |
+| 26.1–26.1.2 | 26.1.2 | Mushroom and other plant generation changed |
+| 26.2 | 26.2 | Sulfur caves added; cave noise calculations changed |
+| 26.3 | 26.3 | Dappled forest added; noise calculation precision changed |
 
-All supported versions share one `query-service.jar`, which selects the matching world-context adapter at startup. Preparing a version adds its adapter to the shared JAR. After preparing the server files for each verifier version, `prepare_terrain_service.py --all` bundles every adapter. Use Java 21 for 1.19.3–1.21.11 and Java 25 for 26.x.
+## Runtime configuration
 
-## Chunk generation order
-
-These huts have a small chance of depending on chunk loading order: the hut height at the same seed and coordinates may vary with that order. [Independent verification](VERIFICATION.md) supports approaching from the center, east, and west.
-
-[hut.json](../data/versions/hut.json) selects screening parameters and verification versions; [compatibility.json](../data/versions/compatibility.json) records the two seed-compatibility partitions shown in the diagram; [source-commits.json](../data/versions/source-commits.json) records reviewed source revisions.
+Use Java 21 for 1.19.3–1.21.11 and Java 25 for 26.x. [profiles.json](../config/versions/profiles.json) records the screening parameters and verification representative used for each version; [compatibility.json](../config/versions/compatibility.json) records the version groups shown in the diagram. See [verification](VERIFICATION.md#english) for service setup and loading orders.

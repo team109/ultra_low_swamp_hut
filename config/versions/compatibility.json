@@ -1,0 +1,192 @@
+{
+  "schema": 1,
+  "search_versions": [
+    "1.19.3",
+    "1.19.4",
+    "1.20",
+    "1.20.1",
+    "1.20.2",
+    "1.20.3",
+    "1.20.4",
+    "1.20.5",
+    "1.20.6",
+    "1.21",
+    "1.21.1",
+    "1.21.2",
+    "1.21.3",
+    "1.21.4",
+    "1.21.5",
+    "1.21.6",
+    "1.21.7",
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11",
+    "26.1",
+    "26.1.1",
+    "26.1.2",
+    "26.2",
+    "26.3"
+  ],
+  "near_generation_groups": [
+    {
+      "versions": [
+        "1.19.3",
+        "1.19.4",
+        "1.20",
+        "1.20.1",
+        "1.20.2",
+        "1.20.3",
+        "1.20.4",
+        "1.20.5",
+        "1.20.6"
+      ],
+      "reason": "Before trial chambers; local aquifer, structure and decoration differences",
+      "label_zh": "试炼密室加入前",
+      "label_en": "Before trial chambers"
+    },
+    {
+      "versions": [
+        "1.21",
+        "1.21.1",
+        "1.21.2",
+        "1.21.3",
+        "1.21.4",
+        "1.21.5",
+        "1.21.6",
+        "1.21.7",
+        "1.21.8",
+        "1.21.9",
+        "1.21.10",
+        "1.21.11",
+        "26.1",
+        "26.1.1",
+        "26.1.2"
+      ],
+      "reason": "Trial chambers add large underground structures; local generation changes within this interval",
+      "label_zh": "加入试炼密室",
+      "label_en": "Trial chambers added"
+    },
+    {
+      "versions": [
+        "26.2",
+        "26.3"
+      ],
+      "reason": "Sulfur caves and underground features added; cave density evaluation changed",
+      "label_zh": "加入硫磺洞穴",
+      "label_en": "Sulfur caves added"
+    }
+  ],
+  "verification_intervals": [
+    {
+      "versions": [
+        "1.19.3"
+      ],
+      "representative": "1.19.3",
+      "profile": "hut-1193"
+    },
+    {
+      "versions": [
+        "1.19.4"
+      ],
+      "representative": "1.19.4",
+      "profile": "hut-1194"
+    },
+    {
+      "versions": [
+        "1.20",
+        "1.20.1"
+      ],
+      "representative": "1.20.1",
+      "profile": "hut-120"
+    },
+    {
+      "versions": [
+        "1.20.2",
+        "1.20.3",
+        "1.20.4"
+      ],
+      "representative": "1.20.2",
+      "profile": "hut-1202"
+    },
+    {
+      "versions": [
+        "1.20.5",
+        "1.20.6"
+      ],
+      "representative": "1.20.6",
+      "profile": "hut-1205"
+    },
+    {
+      "versions": [
+        "1.21",
+        "1.21.1"
+      ],
+      "representative": "1.21",
+      "profile": "hut-121"
+    },
+    {
+      "versions": [
+        "1.21.2",
+        "1.21.3"
+      ],
+      "representative": "1.21.3",
+      "profile": "hut-1212"
+    },
+    {
+      "versions": [
+        "1.21.4"
+      ],
+      "representative": "1.21.4",
+      "profile": "hut-1214"
+    },
+    {
+      "versions": [
+        "1.21.5"
+      ],
+      "representative": "1.21.5",
+      "profile": "hut-1215"
+    },
+    {
+      "versions": [
+        "1.21.6",
+        "1.21.7",
+        "1.21.8",
+        "1.21.9",
+        "1.21.10"
+      ],
+      "representative": "1.21.8",
+      "profile": "hut-1216"
+    },
+    {
+      "versions": [
+        "1.21.11"
+      ],
+      "representative": "1.21.11",
+      "profile": "hut-12111"
+    },
+    {
+      "versions": [
+        "26.1",
+        "26.1.1",
+        "26.1.2"
+      ],
+      "representative": "26.1.2",
+      "profile": "hut-261"
+    },
+    {
+      "versions": [
+        "26.2"
+      ],
+      "representative": "26.2",
+      "profile": "hut-262"
+    },
+    {
+      "versions": [
+        "26.3"
+      ],
+      "representative": "26.3",
+      "profile": "hut-263"
+    }
+  ]
+}

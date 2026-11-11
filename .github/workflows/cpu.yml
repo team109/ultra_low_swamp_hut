@@ -1,0 +1,31 @@
+name: CPU and source package
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  source-package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Package public sources
+        run: python3 scripts/release/package.py
+      - name: Extract source package
+        run: |
+          mkdir -p .local/release-check
+          tar -xzf dist/ultra-low-hut-source.tar.gz -C .local/release-check
+      - name: Fetch pinned CPU dependency
+        working-directory: .local/release-check/ultra-low-hut
+        run: python3 scripts/build/dependencies.py
+      - name: Build CPU library
+        working-directory: .local/release-check/ultra-low-hut
+        run: |
+          cmake -S . -B build-cpu-worlds -DCMAKE_BUILD_TYPE=Release
+          cmake --build build-cpu-worlds --parallel 2
+      - name: Run behavior tests from the source package
+        working-directory: .local/release-check/ultra-low-hut
+        run: python3 -m unittest discover -s tests

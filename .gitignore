@@ -1,4 +1,4 @@
-build*/
+/build*/
 runs/
 logs/
 external/
@@ -17,3 +17,4 @@ dist/
 
 # Local user working agreement
 /AGENTS.md
+/.local/

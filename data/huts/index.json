@@ -1,10 +1,15 @@
 {
-  "height": "Lowest witch spawning Y (HPos)",
+  "schema": 2,
+  "world_type": "normal",
   "columns": [
     "seed",
     "x",
-    "z"
+    "z",
+    "loading_order_affected",
+    "min_hpos_order"
   ],
+  "height": "Minimum witch spawning HPos over configured center prefixes",
+  "loading_policy": "features-selected-3x3-v2-3ae11417ae06",
   "version_groups": [
     {
       "directory": "1.19.3",
@@ -18,7 +23,7 @@
         {
           "spawn_y": -59,
           "file": "1.19.3/y-59.jsonl",
-          "huts": 28
+          "huts": 29
         },
         {
           "spawn_y": -58,
@@ -28,7 +33,7 @@
         {
           "spawn_y": -57,
           "file": "1.19.3/y-57.jsonl",
-          "huts": 222
+          "huts": 223
         },
         {
           "spawn_y": -56,
@@ -40,7 +45,12 @@
           "file": "1.19.3/y-55.jsonl",
           "huts": 101
         }
-      ]
+      ],
+      "world_type": "normal",
+      "loading_policy": "features-selected-3x3-v2-3ae11417ae06",
+      "generation_status": "FEATURES",
+      "legacy": false,
+      "verification": "verification.json"
     },
     {
       "directory": "1.19.4",
@@ -54,7 +64,7 @@
         {
           "spawn_y": -59,
           "file": "1.19.4/y-59.jsonl",
-          "huts": 28
+          "huts": 29
         },
         {
           "spawn_y": -58,
@@ -64,7 +74,7 @@
         {
           "spawn_y": -57,
           "file": "1.19.4/y-57.jsonl",
-          "huts": 222
+          "huts": 223
         },
         {
           "spawn_y": -56,
@@ -76,7 +86,12 @@
           "file": "1.19.4/y-55.jsonl",
           "huts": 101
         }
-      ]
+      ],
+      "world_type": "normal",
+      "loading_policy": "features-selected-3x3-v2-3ae11417ae06",
+      "generation_status": "FEATURES",
+      "legacy": false,
+      "verification": "verification.json"
     },
     {
       "directory": "1.20-1.20.1",
@@ -91,7 +106,7 @@
         {
           "spawn_y": -59,
           "file": "1.20-1.20.1/y-59.jsonl",
-          "huts": 28
+          "huts": 29
         },
         {
           "spawn_y": -58,
@@ -101,7 +116,7 @@
         {
           "spawn_y": -57,
           "file": "1.20-1.20.1/y-57.jsonl",
-          "huts": 222
+          "huts": 223
         },
         {
           "spawn_y": -56,
@@ -113,7 +128,12 @@
           "file": "1.20-1.20.1/y-55.jsonl",
           "huts": 101
         }
-      ]
+      ],
+      "world_type": "normal",
+      "loading_policy": "features-selected-3x3-v2-3ae11417ae06",
+      "generation_status": "FEATURES",
+      "legacy": false,
+      "verification": "verification.json"
     },
     {
       "directory": "1.20.2",
@@ -127,7 +147,7 @@
         {
           "spawn_y": -59,
           "file": "1.20.2/y-59.jsonl",
-          "huts": 28
+          "huts": 29
         },
         {
           "spawn_y": -58,
@@ -137,7 +157,7 @@
         {
           "spawn_y": -57,
           "file": "1.20.2/y-57.jsonl",
-          "huts": 222
+          "huts": 223
         },
         {
           "spawn_y": -56,
@@ -149,7 +169,12 @@
           "file": "1.20.2/y-55.jsonl",
           "huts": 101
         }
-      ]
+      ],
+      "world_type": "normal",
+      "loading_policy": "features-selected-3x3-v2-3ae11417ae06",
+      "generation_status": "FEATURES",
+      "legacy": false,
+      "verification": "verification.json"
     },
     {
       "directory": "1.20.3-1.20.4",
@@ -164,7 +189,7 @@
         {
           "spawn_y": -59,
           "file": "1.20.3-1.20.4/y-59.jsonl",
-          "huts": 28
+          "huts": 29
         },
         {
           "spawn_y": -58,
@@ -174,7 +199,7 @@
         {
           "spawn_y": -57,
           "file": "1.20.3-1.20.4/y-57.jsonl",
-          "huts": 222
+          "huts": 223
         },
         {
           "spawn_y": -56,
@@ -186,7 +211,12 @@
           "file": "1.20.3-1.20.4/y-55.jsonl",
           "huts": 101
         }
-      ]
+      ],
+      "world_type": "normal",
+      "loading_policy": "features-selected-3x3-v2-3ae11417ae06",
+      "generation_status": "FEATURES",
+      "legacy": false,
+      "verification": "verification.json"
     },
     {
       "directory": "1.20.5-1.20.6",
@@ -201,7 +231,7 @@
         {
           "spawn_y": -59,
           "file": "1.20.5-1.20.6/y-59.jsonl",
-          "huts": 28
+          "huts": 29
         },
         {
           "spawn_y": -58,
@@ -211,7 +241,7 @@
         {
           "spawn_y": -57,
           "file": "1.20.5-1.20.6/y-57.jsonl",
-          "huts": 222
+          "huts": 223
         },
         {
           "spawn_y": -56,
@@ -223,7 +253,12 @@
           "file": "1.20.5-1.20.6/y-55.jsonl",
           "huts": 101
         }
-      ]
+      ],
+      "world_type": "normal",
+      "loading_policy": "features-selected-3x3-v2-3ae11417ae06",
+      "generation_status": "FEATURES",
+      "legacy": false,
+      "verification": "verification.json"
     },
     {
       "directory": "1.21-1.21.1",
@@ -238,29 +273,34 @@
         {
           "spawn_y": -59,
           "file": "1.21-1.21.1/y-59.jsonl",
-          "huts": 26
+          "huts": 29
         },
         {
           "spawn_y": -58,
           "file": "1.21-1.21.1/y-58.jsonl",
-          "huts": 161
+          "huts": 167
         },
         {
           "spawn_y": -57,
           "file": "1.21-1.21.1/y-57.jsonl",
-          "huts": 220
+          "huts": 223
         },
         {
           "spawn_y": -56,
           "file": "1.21-1.21.1/y-56.jsonl",
-          "huts": 97
+          "huts": 100
         },
         {
           "spawn_y": -55,
           "file": "1.21-1.21.1/y-55.jsonl",
-          "huts": 100
+          "huts": 101
         }
-      ]
+      ],
+      "world_type": "normal",
+      "loading_policy": "features-selected-3x3-v2-3ae11417ae06",
+      "generation_status": "FEATURES",
+      "legacy": false,
+      "verification": "verification.json"
     },
     {
       "directory": "1.21.2-1.21.3",
@@ -275,29 +315,34 @@
         {
           "spawn_y": -59,
           "file": "1.21.2-1.21.3/y-59.jsonl",
-          "huts": 26
+          "huts": 29
         },
         {
           "spawn_y": -58,
           "file": "1.21.2-1.21.3/y-58.jsonl",
-          "huts": 161
+          "huts": 167
         },
         {
           "spawn_y": -57,
           "file": "1.21.2-1.21.3/y-57.jsonl",
-          "huts": 220
+          "huts": 223
         },
         {
           "spawn_y": -56,
           "file": "1.21.2-1.21.3/y-56.jsonl",
-          "huts": 98
+          "huts": 101
         },
         {
           "spawn_y": -55,
           "file": "1.21.2-1.21.3/y-55.jsonl",
-          "huts": 100
+          "huts": 101
         }
-      ]
+      ],
+      "world_type": "normal",
+      "loading_policy": "features-selected-3x3-v2-3ae11417ae06",
+      "generation_status": "FEATURES",
+      "legacy": false,
+      "verification": "verification.json"
     },
     {
       "directory": "1.21.4",
@@ -311,29 +356,34 @@
         {
           "spawn_y": -59,
           "file": "1.21.4/y-59.jsonl",
-          "huts": 26
+          "huts": 29
         },
         {
           "spawn_y": -58,
           "file": "1.21.4/y-58.jsonl",
-          "huts": 160
+          "huts": 167
         },
         {
           "spawn_y": -57,
           "file": "1.21.4/y-57.jsonl",
-          "huts": 221
+          "huts": 223
         },
         {
           "spawn_y": -56,
           "file": "1.21.4/y-56.jsonl",
-          "huts": 98
+          "huts": 101
         },
         {
           "spawn_y": -55,
           "file": "1.21.4/y-55.jsonl",
-          "huts": 100
+          "huts": 101
         }
-      ]
+      ],
+      "world_type": "normal",
+      "loading_policy": "features-selected-3x3-v2-3ae11417ae06",
+      "generation_status": "FEATURES",
+      "legacy": false,
+      "verification": "verification.json"
     },
     {
       "directory": "1.21.5",
@@ -347,29 +397,34 @@
         {
           "spawn_y": -59,
           "file": "1.21.5/y-59.jsonl",
-          "huts": 26
+          "huts": 29
         },
         {
           "spawn_y": -58,
           "file": "1.21.5/y-58.jsonl",
-          "huts": 161
+          "huts": 167
         },
         {
           "spawn_y": -57,
           "file": "1.21.5/y-57.jsonl",
-          "huts": 221
+          "huts": 223
         },
         {
           "spawn_y": -56,
           "file": "1.21.5/y-56.jsonl",
-          "huts": 98
+          "huts": 101
         },
         {
           "spawn_y": -55,
           "file": "1.21.5/y-55.jsonl",
-          "huts": 100
+          "huts": 101
         }
-      ]
+      ],
+      "world_type": "normal",
+      "loading_policy": "features-selected-3x3-v2-3ae11417ae06",
+      "generation_status": "FEATURES",
+      "legacy": false,
+      "verification": "verification.json"
     },
     {
       "directory": "1.21.6-1.21.8",
@@ -385,68 +440,117 @@
         {
           "spawn_y": -59,
           "file": "1.21.6-1.21.8/y-59.jsonl",
-          "huts": 26
+          "huts": 29
         },
         {
           "spawn_y": -58,
           "file": "1.21.6-1.21.8/y-58.jsonl",
-          "huts": 161
+          "huts": 167
         },
         {
           "spawn_y": -57,
           "file": "1.21.6-1.21.8/y-57.jsonl",
-          "huts": 221
+          "huts": 223
         },
         {
           "spawn_y": -56,
           "file": "1.21.6-1.21.8/y-56.jsonl",
-          "huts": 98
+          "huts": 101
         },
         {
           "spawn_y": -55,
           "file": "1.21.6-1.21.8/y-55.jsonl",
-          "huts": 100
+          "huts": 101
         }
-      ]
+      ],
+      "world_type": "normal",
+      "loading_policy": "features-selected-3x3-v2-3ae11417ae06",
+      "generation_status": "FEATURES",
+      "legacy": false,
+      "verification": "verification.json"
     },
     {
-      "directory": "1.21.9-1.21.11",
+      "directory": "1.21.9-1.21.10",
       "versions": [
         "1.21.9",
-        "1.21.10",
+        "1.21.10"
+      ],
+      "verified_versions": [
+        "1.21.10"
+      ],
+      "files": [
+        {
+          "spawn_y": -59,
+          "file": "1.21.9-1.21.10/y-59.jsonl",
+          "huts": 29
+        },
+        {
+          "spawn_y": -58,
+          "file": "1.21.9-1.21.10/y-58.jsonl",
+          "huts": 167
+        },
+        {
+          "spawn_y": -57,
+          "file": "1.21.9-1.21.10/y-57.jsonl",
+          "huts": 223
+        },
+        {
+          "spawn_y": -56,
+          "file": "1.21.9-1.21.10/y-56.jsonl",
+          "huts": 101
+        },
+        {
+          "spawn_y": -55,
+          "file": "1.21.9-1.21.10/y-55.jsonl",
+          "huts": 101
+        }
+      ],
+      "world_type": "normal",
+      "loading_policy": "features-selected-3x3-v2-3ae11417ae06",
+      "generation_status": "FEATURES",
+      "legacy": false,
+      "verification": "verification.json"
+    },
+    {
+      "directory": "1.21.11",
+      "versions": [
         "1.21.11"
       ],
       "verified_versions": [
-        "1.21.10",
         "1.21.11"
       ],
       "files": [
         {
           "spawn_y": -59,
-          "file": "1.21.9-1.21.11/y-59.jsonl",
-          "huts": 26
+          "file": "1.21.11/y-59.jsonl",
+          "huts": 29
         },
         {
           "spawn_y": -58,
-          "file": "1.21.9-1.21.11/y-58.jsonl",
-          "huts": 161
+          "file": "1.21.11/y-58.jsonl",
+          "huts": 167
         },
         {
           "spawn_y": -57,
-          "file": "1.21.9-1.21.11/y-57.jsonl",
-          "huts": 221
+          "file": "1.21.11/y-57.jsonl",
+          "huts": 223
         },
         {
           "spawn_y": -56,
-          "file": "1.21.9-1.21.11/y-56.jsonl",
-          "huts": 98
+          "file": "1.21.11/y-56.jsonl",
+          "huts": 101
         },
         {
           "spawn_y": -55,
-          "file": "1.21.9-1.21.11/y-55.jsonl",
-          "huts": 100
+          "file": "1.21.11/y-55.jsonl",
+          "huts": 101
         }
-      ]
+      ],
+      "world_type": "normal",
+      "loading_policy": "features-selected-3x3-v2-3ae11417ae06",
+      "generation_status": "FEATURES",
+      "legacy": false,
+      "verification": "verification.json"
     },
     {
       "directory": "26.1-26.1.2",
@@ -462,29 +566,34 @@
         {
           "spawn_y": -59,
           "file": "26.1-26.1.2/y-59.jsonl",
-          "huts": 26
+          "huts": 29
         },
         {
           "spawn_y": -58,
           "file": "26.1-26.1.2/y-58.jsonl",
-          "huts": 161
+          "huts": 167
         },
         {
           "spawn_y": -57,
           "file": "26.1-26.1.2/y-57.jsonl",
-          "huts": 222
+          "huts": 223
         },
         {
           "spawn_y": -56,
           "file": "26.1-26.1.2/y-56.jsonl",
-          "huts": 98
+          "huts": 101
         },
         {
           "spawn_y": -55,
           "file": "26.1-26.1.2/y-55.jsonl",
-          "huts": 99
+          "huts": 101
         }
-      ]
+      ],
+      "world_type": "normal",
+      "loading_policy": "features-selected-3x3-v2-3ae11417ae06",
+      "generation_status": "FEATURES",
+      "legacy": false,
+      "verification": "verification.json"
     },
     {
       "directory": "26.2",
@@ -498,29 +607,34 @@
         {
           "spawn_y": -59,
           "file": "26.2/y-59.jsonl",
-          "huts": 24
+          "huts": 29
         },
         {
           "spawn_y": -58,
           "file": "26.2/y-58.jsonl",
-          "huts": 159
+          "huts": 167
         },
         {
           "spawn_y": -57,
           "file": "26.2/y-57.jsonl",
-          "huts": 217
+          "huts": 222
         },
         {
           "spawn_y": -56,
           "file": "26.2/y-56.jsonl",
-          "huts": 97
+          "huts": 102
         },
         {
           "spawn_y": -55,
           "file": "26.2/y-55.jsonl",
-          "huts": 102
+          "huts": 101
         }
-      ]
+      ],
+      "world_type": "normal",
+      "loading_policy": "features-selected-3x3-v2-3ae11417ae06",
+      "generation_status": "FEATURES",
+      "legacy": false,
+      "verification": "verification.json"
     },
     {
       "directory": "26.3",
@@ -534,30 +648,34 @@
         {
           "spawn_y": -59,
           "file": "26.3/y-59.jsonl",
-          "huts": 24
+          "huts": 28
         },
         {
           "spawn_y": -58,
           "file": "26.3/y-58.jsonl",
-          "huts": 158
+          "huts": 167
         },
         {
           "spawn_y": -57,
           "file": "26.3/y-57.jsonl",
-          "huts": 217
+          "huts": 222
         },
         {
           "spawn_y": -56,
           "file": "26.3/y-56.jsonl",
-          "huts": 97
+          "huts": 102
         },
         {
           "spawn_y": -55,
           "file": "26.3/y-55.jsonl",
-          "huts": 102
+          "huts": 101
         }
-      ]
+      ],
+      "world_type": "normal",
+      "loading_policy": "features-selected-3x3-v2-3ae11417ae06",
+      "generation_status": "FEATURES",
+      "legacy": false,
+      "verification": "verification.json"
     }
-  ],
-  "verification": "verification.json"
+  ]
 }
